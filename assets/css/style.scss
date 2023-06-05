@@ -1,0 +1,68 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1,h2,h3,h4 {
+  color: #55B5E5;}
+
+h4 {
+  font-style: italic;
+  margin-bottom: 0;}
+
+body {
+  color: #FFFFFF;
+  background-color: #000000;}
+
+a:link, a:visited {
+  color: #55B5E5;
+  font-weight: normal;}
+
+a:hover {
+  color: #2166B1;
+  font-weight: normal;}
+
+table, tr, td, th{
+  padding: 0px;
+  border: none;}
+
+pre {
+  color: #FFFFFF;
+  font-size: x-small;
+  background-color: #303030;
+  border: 0px;}
+
+button {
+  color: #FFFFFF;
+  line-height: 1;
+  font-size: 0.875rem;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0.25rem 0.5rem;
+  border-radius: 10%;
+  border: 0px;
+  transition: background-color 0.15s ease-in-out;}
+
+.btn-pdf {
+  background-color: #429455;}
+
+.btn-pdf:hover {
+  background-color: #357644;}
+
+.btn-url {
+  background-color: #3369A2;}
+
+.btn-url:hover {
+  background-color: #295482;}
+
+.btn-bib {
+  background-color: #DC3545;}
+
+.btn-bib:hover {
+  background-color: #C82333;}
+
+.reference > p {
+  padding-left: 2rem;
+  text-indent: -2rem;
+  font-size: smaller;
+  text-align: justify;}
