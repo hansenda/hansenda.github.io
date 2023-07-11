@@ -106,6 +106,13 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 
 &nbsp;
 
+### Further Training
+* Summer schools in NLP (ETAL), NMT (NeTTT) and digital humanities (LIT&DH)
+* Courses on deep learning, machine translation and post-editing
+* Training in fair reviewing, research ethics, scientific integrity and reproducible research
+
+&nbsp;
+
 ### Involvement in Academic Life
 * Representative of the scientific personnel at the Faculty Council
 * PhD representative for the ED3bis Doctoral College
@@ -118,6 +125,7 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 * Outreach and consultancy
 * Management of social media outlets
 * Management of internal and external webpages
+* Organization of internal and external research seminars
 
 &nbsp;
 
