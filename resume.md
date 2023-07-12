@@ -107,7 +107,7 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 &nbsp;
 
 ### Further Training
-* Summer schools in NLP (ETAL), NMT (NeTTT) and digital humanities (LIT&DH)
+* Summer schools in NLP (ETAL), NMT (NeTTT) and digital humanities
 * Courses on deep learning, machine translation and post-editing
 * Training in fair reviewing, research ethics, scientific integrity and reproducible research
 
