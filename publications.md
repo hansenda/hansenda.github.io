@@ -217,7 +217,7 @@
 
 <h3>Book Chapters</h3>
 
-<p>Hansen, Damien. &ldquo;The Figure of the Literary Translator Amidst New Technologies&rdquo;. <i>Technological Change in Translation and Interpreting</i>, edited by Marion Winters, Sharon Deane-Cox and Ursula Böser, Bloomsbury, in press.</p>
+<p>Hansen, Damien. &ldquo;The Figure of the Literary Translator Amidst New Technologies&rdquo;. <i>Translation, Interpreting and Technological Changes: Innovations in Research, Practice and Training</i>, edited by Marion Winters, Sharon Deane-Cox and Ursula Böser, Bloomsbury, in press.</p>
 
 <p>Hansen, Damien. &ldquo;Le jeu vidéo envisagé comme langage&rdquo;. <i>Culture vidéoludique&nbsp;!</i>, 2<sup>nd</sup>&nbsp;ed., edited by the Liège Game Lab, Presses Universitaires de Liège, in press.</p>
 
