@@ -131,32 +131,38 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 
 ### Organizing Committees
 
-*Workshop on Corpora in Translation Education*<br>
-CIRTI – Lilith, ULiège, Liège, Belgium (25/05/2023)
+<a href="https://www.cirti.uliege.be/translation-corpora-2023" target="_blank">*Workshop on Corpora in Translation Education*</a><br>
+CIRTI &ndash; Lilith, ULiège, Liège, Belgium (25/05/2023)
 
-*Literary Machine Translation as a Human-Machine Dialectic*<br>
+<a href="https://www.cirti.uliege.be/litmt2022" target="_blank">*Literary Machine Translation as a Human-Machine Dialectic*</a><br>
 CIRTI, ULiège, Liège, Belgium (06/10/2022)
 
-*Replaying Japan 2020*<br>
+<a href="https://replaying.jp/keynote-and-schedule" target="_blank">*Replaying Japan 2020*</a><br>
 Liège Game Lab, ULiège, Liège, Belgium (10&ndash;13/08/2020)
 
-*Le traducteur à l'ère des nouvelles technologies*<br>
+*<a href="http://www.traduction2019.uliege.be" target="_blank">Le traducteur à l'ère des nouvelles technologies</a>*<br>
 CIRTI, ULiège, Liège, Belgium (06/05/2019)
 
 &nbsp;
 
 ### Scientific Committees
 
-*Workshop on Corpora in Translation Education*<br>
+<a href="https://www.fabula.org/actualites/117266/dante-en-belgique-francophone-de-la-traduction-aux-transcreations-semiotiques.html" target="_blank">*Dante en Belgique francophone&nbsp;: de la traduction aux transcréations sémiotiques*</a><br>
+UMONS &ndash; UCLouvain &ndash; UniFI &ndash; DHAF, UMONS, Mons, Belgium (15&ndash;17/05/2024)
+
+<a href="https://www.fabula.org/actualites/113588/entre-immersion-interactivite-et-interaction-traduire-le-jeu-video.html" target="_blank">*Entre immersion, interactivité et interaction&nbsp;: traduire le jeu vidéo*</a><br>
+LLL, UO, Orléans, France (13/12/2023)
+
+<a href="https://www.cirti.uliege.be/translation-corpora-2023" target="_blank">*Workshop on Corpora in Translation Education*</a><br>
 CIRTI &ndash; Lilith, ULiège, Liège, Belgium (25/05/2023)
 
-*Literary Machine Translation as a Human-Machine Dialectic*<br>
+<a href="https://www.cirti.uliege.be/litmt2022" target="_blank">*Literary Machine Translation as a Human-Machine Dialectic*</a><br>
 CIRTI, ULiège, Liège, Belgium (06/10/2022)
 
-*Enseigner la traduction et l'interprétation à l'heure neuronale*<br>
+<a href="https://tradital.ltc.ulb.be/navigation/colloque" target="_blank">*Enseigner la traduction et l'interprétation à l'heure neuronale*</a><br>
 TRADITAL, ULB, Brussels, Belgium (29&ndash;30/09/2022)
 
-*Replaying Japan 2020*<br>
+<a href="https://replaying.jp/keynote-and-schedule" target="_blank">*Replaying Japan 2020*</a><br>
 Liège Game Lab, ULiège, Liège, Belgium (10&ndash;13/08/2020)
 
 &nbsp;
