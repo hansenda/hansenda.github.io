@@ -147,8 +147,8 @@ CIRTI, ULiège, Liège, Belgium (06/05/2019)
 
 ### Scientific Committees
 
-<a href="https://www.fabula.org/actualites/117266/dante-en-belgique-francophone-de-la-traduction-aux-transcreations-semiotiques.html" target="_blank">*Dante en Belgique francophone&nbsp;: de la traduction aux transcréations sémiotiques*</a><br>
-UMONS &ndash; UCLouvain &ndash; UniFI &ndash; DHAF, UMONS, Mons, Belgium (15&ndash;17/05/2024)
+<a href="https://www.fabula.org/actualites/117266/dante-en-belgique-francophone-de-la-traduction-aux-transcreations-semiotiques.html" target="_blank" style="letter-spacing:-.1px">*Dante en Belgique francophone&nbsp;: de la traduction aux transcréations sémiotiques*</a><br>
+UMONS &ndash; UCLouvain, UMONS, Mons, Belgium (15&ndash;17/05/2024)
 
 <a href="https://www.fabula.org/actualites/113588/entre-immersion-interactivite-et-interaction-traduire-le-jeu-video.html" target="_blank">*Entre immersion, interactivité et interaction&nbsp;: traduire le jeu vidéo*</a><br>
 LLL, UO, Orléans, France (13/12/2023)
