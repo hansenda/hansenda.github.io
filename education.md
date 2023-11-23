@@ -17,7 +17,7 @@ Translating the arts (ULiège, 2020&ndash;2021)
 
 ### Lectures
 
-Theory and practice of translation from English into French I (ULiège, 2023)
+Theory and practice of translation from Dutch into French I (ULiège, 2023)
 
 Documentary and corpus research (ULiège, 2022)
 
