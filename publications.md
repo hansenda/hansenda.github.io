@@ -148,7 +148,7 @@
 </script>
 
 <p>
-  Hansen, Damien. &ldquo;<a href="https://aclanthology.org/2021.jeptalnrecital-recital.3" target="_blank">Les lettres et la machine : un état de l’art en traduction littéraire automatique</a>&rdquo;. <i>Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles</i>, vol.&nbsp;2, edited by Pascal Denis, Natalia Grabar, Amel Fraisse, Rémi Cardon, Bernard Jacquemin, Eric Kergosien and Antonio Balvet, ATALA, 2021, pp.&nbsp;28–45.<br>
+  Hansen, Damien. &ldquo;<a href="https://aclanthology.org/2021.jeptalnrecital-recital.3" target="_blank">Les lettres et la machine&nbsp;: un état de l’art en traduction littéraire automatique</a>&rdquo;. <i>Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles</i>, vol.&nbsp;2, edited by Pascal Denis, Natalia Grabar, Amel Fraisse, Rémi Cardon, Bernard Jacquemin, Eric Kergosien and Antonio Balvet, ATALA, 2021, pp.&nbsp;28–45.<br>
   <a href="https://aclanthology.org/2021.jeptalnrecital-recital.3.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
   <a href="https://aclanthology.org/2021.jeptalnrecital-recital.3" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib2()">BIB</button>
@@ -220,6 +220,40 @@
 <p>Hansen, Damien. &ldquo;The Figure of the Literary Translator Amidst New Technologies&rdquo;. <i>Translation, Interpreting and Technological Changes: Innovations in Research, Practice and Training</i>, edited by Marion Winters, Sharon Deane-Cox and Ursula Böser, Bloomsbury, in press.</p>
 
 <p>Hansen, Damien. &ldquo;Le jeu vidéo envisagé comme langage&rdquo;. <i>Culture vidéoludique&nbsp;!</i>, 2<sup>nd</sup>&nbsp;ed., edited by the Liège Game Lab, Presses Universitaires de Liège, in press.</p>
+
+<br>
+
+<h3>Books</h3>
+
+<p>
+  Hansen, Damien. <a href="https://books.openedition.org/pulg/18941" target="_blank"><i>Parler le jeu vidéo&nbsp;: Le ludème comme unité minimale d’une grammaire vidéoludique&nbsp;?</i></a>, Presses Universitaires de Liège, 2023.<br>
+  <a href="https://books.openedition.org/pulg/18941" target="_blank"><button class="btn-url">URL</button></a>
+  <button class="btn-bib" onclick="toggleBib8()">BIB</button>
+</p>
+
+<div id="bib8" style="display:none; background-color:black; padding-left: 2em;">
+  <pre>@book{hansen:2023:pulg,
+    author    = {Hansen, Damien},
+    title     = {Parler le jeu vidéo : Le ludème comme unité minimale d’une grammaire vidéoludique ?},
+    series    = {Culture contemporaine},
+    number    = {4},
+    year      = {2023},
+    publisher = {Presses Universitaires de Liège},
+    location  = {Liège, Belgium},
+    url       = {https://books.openedition.org/pulg/18941}}
+  </pre>
+</div>
+
+<script>
+  function toggleBib8(parameter) {
+    var x = document.getElementById('bib8');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+  }
+</script>
 
 <br>
 
