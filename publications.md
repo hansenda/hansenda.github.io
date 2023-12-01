@@ -14,7 +14,7 @@
 <h3>Books</h3>
 
 <p>
-  Hansen, Damien. <i style="color:#55B5E5;">Parler le jeu vidéo&nbsp;: Le ludème comme unité minimale d’une grammaire vidéoludique&nbsp;?</i>, Presses Universitaires de Liège, 2023.<br>
+  Hansen, Damien. <i style="color:#55B5E5;">Parler le jeu vidéo&nbsp;: Le ludème comme unité minimale d’une grammaire vidéoludique&nbsp;?</i>, Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.18941.<br>
   <a href="https://books.openedition.org/pulg/18941" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib8()">BIB</button>
 </p>
@@ -28,6 +28,8 @@
     year      = {2023},
     publisher = {Presses Universitaires de Liège},
     location  = {Liège, Belgium},
+    isbn      = {978-2-87562-396-6},
+    doi       = {10.4000/books.pulg.18941},
     url       = {https://books.openedition.org/pulg/18941}}
   </pre>
 </div>
