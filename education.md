@@ -35,6 +35,6 @@ Supervision of seminars for students writing their MA thesis.
 
 ### Supervision of MA Theses
 
-Minder, Joachim. &ldquo;Traduction automatique et marqueurs d'oralité&nbsp;: analyse à partir d'un corpus parallèle allemand&ndash;français&rdquo; (2022).
+Minder, Joachim. *Traduction automatique et marqueurs d'oralité&nbsp;: analyse à partir d'un corpus parallèle allemand&ndash;français* (2022). Received an award for best MA thesis in applied research by the Belgian Chamber of Translators and Interpreters.
 
-D'Amario, Luca. &ldquo;Traduction commentée d'extraits de *The Deep Learning Revolution*, de Terrence J. Sejnowski&rdquo; (2021).
+D'Amario, Luca. *Traduction commentée d'extraits de* The Deep Learning Revolution, *de Terrence J. Sejnowski* (2021).
