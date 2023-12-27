@@ -167,6 +167,12 @@ Liège Game Lab, ULiège, Liège, Belgium (10&ndash;13/08/2020)
 
 &nbsp;
 
+### Peer Review
+
+*Tradumàtica*, no.&nbsp;21: <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank">Computer-Aided Literary Translation</a> (2023)
+
+&nbsp;
+
 ### Awards and Scholarships
 
 Travel grant &ndash; F.R.S.-FNRS (2023)
