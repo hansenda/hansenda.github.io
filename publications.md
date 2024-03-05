@@ -1,10 +1,10 @@
 <center>
-  &vert;&emsp;
-  <a href="index.html">Home</a>&emsp;&vert;&emsp;
-  <a href="resume.html">Resume</a>&emsp;&vert;&emsp;
-  <a href="publications.html">Publications</a>&emsp;&vert;&emsp;
-  <a href="talks.html">Talks</a>&emsp;&vert;&emsp;
-  <a href="education.html">Education</a>&emsp;&vert;
+  &vert;&ensp;
+  <a href="index.html">Home</a>&ensp;&vert;&ensp;
+  <a href="resume.html">CV</a>&ensp;&vert;&ensp;
+  <a href="publications.html">Publications</a>&ensp;&vert;&ensp;
+  <a href="talks.html">Talks</a>&ensp;&vert;&ensp;
+  <a href="education.html">Education</a>&ensp;&vert;
 </center>
 
 <br>
@@ -263,7 +263,7 @@
 
 <p>
   Liège Game Lab (ed.). <i style="color:#55B5E5;">Entre le jeu et le joueur&nbsp;: écarts et médiations</i>, Presses Universitaires de Liège, 2023.<br>
-  <a href="https://pressesuniversitairesdeliege.be/produit/entre-le-jeu-et-le-joueur/" target="_blank"><button class="btn-url">URL</button></a>
+  <a href="https://books.openedition.org/pulg/26521" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib7()">BIB</button>
 </p>
 
@@ -277,7 +277,8 @@
     publisher = {Presses Universitaires de Liège},
     location  = {Liège, Belgium},
     isbn      = {978-2-87562-361-4},
-    url       = {https://pressesuniversitairesdeliege.be/produit/entre-le-jeu-et-le-joueur}}
+    doi       = {10.4000/books.pulg.24716},
+    url       = {https://books.openedition.org/pulg/26521}}
   </pre>
 </div>
 
