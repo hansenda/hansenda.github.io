@@ -1,10 +1,10 @@
 <center>
-  &vert;&emsp;
-  <a href="index.html">Home</a>&emsp;&vert;&emsp;
-  <a href="resume.html">Resume</a>&emsp;&vert;&emsp;
-  <a href="publications.html">Publications</a>&emsp;&vert;&emsp;
-  <a href="talks.html">Talks</a>&emsp;&vert;&emsp;
-  <a href="education.html">Education</a>&emsp;&vert;
+  &vert;&ensp;
+  <a href="index.html">Home</a>&ensp;&vert;&ensp;
+  <a href="resume.html">CV</a>&ensp;&vert;&ensp;
+  <a href="publications.html">Publications</a>&ensp;&vert;&ensp;
+  <a href="talks.html">Talks</a>&ensp;&vert;&ensp;
+  <a href="education.html">Education</a>&ensp;&vert;
 </center>
 
 &nbsp;
@@ -16,6 +16,8 @@ General translation into French, introduction to post-editing and sight translat
 Translating the arts (ULiège, 2020&ndash;2021)
 
 ### Lectures
+
+Introduction to translation studies (ULiège, 2024)
 
 Theory and practice of translation from Dutch into French I (ULiège, 2023)
 
