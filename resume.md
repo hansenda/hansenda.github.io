@@ -1,10 +1,10 @@
 <center>
-  &vert;&emsp;
-  <a href="index.html">Home</a>&emsp;&vert;&emsp;
-  <a href="resume.html">Resume</a>&emsp;&vert;&emsp;
-  <a href="publications.html">Publications</a>&emsp;&vert;&emsp;
-  <a href="talks.html">Talks</a>&emsp;&vert;&emsp;
-  <a href="education.html">Education</a>&emsp;&vert;
+  &vert;&ensp;
+  <a href="index.html">Home</a>&ensp;&vert;&ensp;
+  <a href="resume.html">CV</a>&ensp;&vert;&ensp;
+  <a href="publications.html">Publications</a>&ensp;&vert;&ensp;
+  <a href="talks.html">Talks</a>&ensp;&vert;&ensp;
+  <a href="education.html">Education</a>&ensp;&vert;
 </center>
 
 &nbsp;
@@ -146,6 +146,9 @@ CIRTI, ULiège, Liège, Belgium (06/05/2019)
 &nbsp;
 
 ### Scientific Committees
+
+<a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank">*Workshop on Creative-text Translation and Technology*</a><br>
+EAMT, TUOS, Sheffield, United Kingdom (27/06/2024)
 
 <a href="https://www.fabula.org/actualites/117266/dante-en-belgique-francophone-de-la-traduction-aux-transcreations-semiotiques.html" target="_blank" style="letter-spacing:-.1px">*Dante en Belgique francophone&nbsp;: de la traduction aux transcréations sémiotiques*</a><br>
 UMONS &ndash; UCLouvain, UMONS, Mons, Belgium (15&ndash;17/05/2024)
