@@ -273,14 +273,13 @@
     publisher = {Bloomsbury Academic},
     location  = {London, United Kingdom},
     isbn      = {978-1-3502-1297-8},
-    doi       = {10.5040/9781350212978.0012},
-    url       = {https://www.bloomsburycollections.com/monograph-detail?docid=b-9781350212978&tocid=b-9781350212978-chapter4}}
+    doi       = {10.5040/9781350212978.0012}}
   </pre>
 </div>
 
 <script>
-  function toggleBib7(parameter) {
-    var x = document.getElementById('bib7');
+  function toggleBib9(parameter) {
+    var x = document.getElementById('bib9');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
