@@ -299,7 +299,7 @@
 </p>
 
 <div id="bib7" style="display:none; background-color:black; padding-left: 2em;">
-  <pre>@book{liege-game-lab:2023,
+  <pre>@book{liege-game-lab:2023:pulg,
     title     = {Entre le jeu et le joueur : Écarts et médiations},
     editor    = {Liège Game Lab},
     series    = {Jeu / Play / Spiel},
@@ -307,7 +307,7 @@
     year      = {2023},
     publisher = {Presses Universitaires de Liège},
     location  = {Liège, Belgium},
-    isbn      = {978-2-87562-361-4},
+    isbn      = {978-2-87562-405-5},
     doi       = {10.4000/books.pulg.24716},
     url       = {https://books.openedition.org/pulg/26521}}
   </pre>
