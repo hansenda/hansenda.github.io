@@ -272,7 +272,7 @@
     pages     = {80--108},
     publisher = {Bloomsbury Academic},
     location  = {London, United Kingdom},
-    isbn      = {978-1-3502-1297-8},
+    isbn      = {978-1-3502-1294-7},
     doi       = {10.5040/9781350212978.0012}}
   </pre>
 </div>
