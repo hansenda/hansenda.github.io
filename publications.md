@@ -21,8 +21,8 @@
 
 <div id="bib8" style="display:none; background-color:black; padding-left: 2em;">
   <pre>@book{hansen:2023:pulg,
+    title     = {Parler le jeu vidéo : Le ludème comme unité minimale d'une grammaire vidéoludique ?},
     author    = {Hansen, Damien},
-    title     = {Parler le jeu vidéo : Le ludème comme unité minimale d’une grammaire vidéoludique ?},
     series    = {Culture contemporaine},
     number    = {4},
     year      = {2023},
@@ -253,24 +253,56 @@
 
 <h3>Book Chapters</h3>
 
-<p>Hansen, Damien. &ldquo;<span style="color:#55B5E5;">The Figure of the Literary Translator Amidst New Technologies</span>&rdquo;. <i>Translation, Interpreting and Technological Changes: Innovations in Research, Practice and Training</i>, edited by Marion Winters, Sharon Deane-Cox and Ursula Böser, Bloomsbury, in press.</p>
-
 <p>Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Le jeu vidéo envisagé comme langage</span>&rdquo;. <i>Culture vidéoludique&nbsp;!</i>, 2<sup>nd</sup>&nbsp;ed., edited by the Liège Game Lab, Presses Universitaires de Liège, in press.</p>
+
+<p>
+  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">The Figure of the Literary Translator Amidst New Technologies</span>&rdquo;. <i>Translation, Interpreting and Technological Changes: Innovations in Research, Practice and Training</i>, edited by Marion Winters, Sharon Deane-Cox and Ursula Böser, Bloomsbury, 2024, pp.&nbsp;80&ndash;108, doi: 10.5040/9781350212978.0012.<br>
+  <a href="https://www.bloomsburycollections.com/monograph?docid=b-9781350212978" target="_blank"><button class="btn-url">URL</button></a>
+  <button class="btn-bib" onclick="toggleBib9()">BIB</button>
+</p>
+
+<div id="bib9" style="display:none; background-color:black; padding-left: 2em;">
+  <pre>@incollection{hansen:2024:bloomsburry,
+    title     = {The Figure of the Literary Translator amidst New Technologies},
+    author    = {Hansen, Damien},
+    booktitle = {Translation, Interpreting and Technological Change: Innovations in Research, Practice and Training},
+    editor    = {Winters, Marion and Deane-Cox, Sharon and Böser, Ursula},
+    series    = {Bloomsbury Advances in Translation},
+    year      = {2024},
+    pages     = {80--108},
+    publisher = {Bloomsbury Academic},
+    location  = {London, United Kingdom},
+    isbn      = {978-1-3502-1297-8},
+    doi       = {10.5040/9781350212978.0012},
+    url       = {https://www.bloomsburycollections.com/monograph-detail?docid=b-9781350212978&tocid=b-9781350212978-chapter4}}
+  </pre>
+</div>
+
+<script>
+  function toggleBib7(parameter) {
+    var x = document.getElementById('bib7');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+  }
+</script>
 
 <br>
 
 <h3>Edited Volumes</h3>
 
 <p>
-  Liège Game Lab (ed.). <i style="color:#55B5E5;">Entre le jeu et le joueur&nbsp;: écarts et médiations</i>, Presses Universitaires de Liège, 2023.<br>
+  Liège Game Lab (ed.). <i style="color:#55B5E5;">Entre le jeu et le joueur&nbsp;: écarts et médiations</i>, Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.24716.<br>
   <a href="https://books.openedition.org/pulg/26521" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib7()">BIB</button>
 </p>
 
 <div id="bib7" style="display:none; background-color:black; padding-left: 2em;">
   <pre>@book{liege-game-lab:2023,
-    editor    = {Liège Game Lab},
     title     = {Entre le jeu et le joueur : Écarts et médiations},
+    editor    = {Liège Game Lab},
     series    = {Jeu / Play / Spiel},
     number    = {6},
     year      = {2023},
