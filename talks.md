@@ -59,6 +59,8 @@
 
 <h3>Outreach</h3>
 
+<p>&ldquo;<a href="https://kollektive-intelligenz.de/originals/customized-mt-engines-for-literary-translators-a-case-study/" target="_blank">Customized MT engines for literary translators – A case study</a> / <a href="https://kollektive-intelligenz.de/originals/personalisierte-ki-fuers-literaturuebersetzen-eine-fallstudie/" target="_blank">Personalisierte KI fürs Literaturübersetzen – eine Fallstudie</a>&rdquo;. Interview for <i>Kollektive Intelligenz</i>, 07/06/2024.</p>
+
 <p>&ldquo;<a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Counterpoint_2023_10.pdf#Counterpoint_Eng_10.indd%3A.44866%3A475" target="_blank">The ambivalence
 of machine translation and AI: Resource or replacement?</a> / <a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Contrepoint_2023_10.pdf#Counterpoint_Fre_10.indd%3A.49756%3A533" target="_blank">Ressource ou substitut&nbsp;? L'ambivalence de la traduction automatique et de l'IA</a>&rdquo;. <i>Counterpoint</i>, no.&nbsp;10, special issue on AI and literary translation, CEATL, 19/12/2023.</p>
 
