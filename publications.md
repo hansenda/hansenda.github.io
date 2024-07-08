@@ -14,7 +14,7 @@
 <h3>Books and Thesis</h3>
 
 <p>
-  Hansen, Damien. <i style="color:#55B5E5;letter-spacing:-.1px">Évaluation experte d'un prototype d'aide à la traduction créative&nbsp;: La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux</i>, PhD thesis, University of Liège &ndash; Grenoble Alpes University, 2024.<br>
+  Hansen, Damien. <i style="color:#55B5E5;letter-spacing:-.1px">Évaluation experte d'un prototype d'aide à la traduction créative&nbsp;: La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux</i>. PhD thesis, University of Liège &ndash; Grenoble Alpes University, 2024.<br>
   <a href="https://hdl.handle.net/2268/312631" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib10()">BIB</button>
   <a href="https://orbi.uliege.be/bitstream/2268/312631/1/these_hansen_v1.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -43,7 +43,7 @@
 </script>
 
 <p>
-  Hansen, Damien. <i style="color:#55B5E5;">Parler le jeu vidéo&nbsp;: Le ludème comme unité minimale d’une grammaire vidéoludique&nbsp;?</i>, Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.18941.<br>
+  Hansen, Damien. <i style="color:#55B5E5;">Parler le jeu vidéo&nbsp;: Le ludème comme unité minimale d’une grammaire vidéoludique&nbsp;?</i> Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.18941.<br>
   <a href="https://books.openedition.org/pulg/18941" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib8()">BIB</button>
 </p>
@@ -79,7 +79,7 @@
 <h3>Articles in Journals and Proceedings</h3>
 
 <p>
-  Hansen, Damien and Emmanuelle Esperança-Rodier. &ldquo;<span style="color:#55B5E5;">Human-Adapted MT for Literary Texts: Reality or Fantasy?</span>&rdquo;. <i>Proceedings of the New Trends in Translation and Technology Conference</i>, edited by Sheila Castilho, Rocío Caro Quintana, Maria Stasimioti and Vilelmini Sosoni, NeTTT, 2023, pp.&nbsp;178&ndash;190.<br>
+  Hansen, Damien and Emmanuelle Esperança-Rodier. &ldquo;<span style="color:#55B5E5;">Human-Adapted MT for Literary Texts: Reality or Fantasy?</span>&rdquo; <i>Proceedings of the New Trends in Translation and Technology Conference</i>, edited by Sheila Castilho, Rocío Caro Quintana, Maria Stasimioti and Vilelmini Sosoni, NeTTT, 2023, pp.&nbsp;178&ndash;190.<br>
   <a href="https://acl-anthology.online/nettt-2022/" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib6()">BIB</button>
   <a href="https://acl-bg.org/proceedings/2022/NeTTT%202022/NeTTT-2022-Final-Proceedings.pdf#chapter.20" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -112,7 +112,7 @@
 </script>
 
 <p>
-  Hansen, Damien, Emmanuelle Esperança-Rodier, Hervé Blanchon and Valérie Bada. &ldquo;<span style="color:#55B5E5;">La traduction littéraire automatique&nbsp;: Adapter la machine à la traduction humaine individualisée</span>&rdquo;. <i>Journal of Data Mining & Digital Humanities</i>, special issue: Vers une robotique du traduire&nbsp;?, 2022, doi: 10.46298/jdmdh.9114.<br>
+  Hansen, Damien, Emmanuelle Esperança-Rodier, Hervé Blanchon and Valérie Bada. &ldquo;<span style="color:#55B5E5;">La traduction littéraire automatique&nbsp;: Adapter la machine à la traduction humaine individualisée</span>.&rdquo; <i>Journal of Data Mining & Digital Humanities</i>, special issue: Vers une robotique du traduire&nbsp;?, 2022, doi: 10.46298/jdmdh.9114.<br>
   <a href="https://doi.org/10.46298/jdmdh.9114" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib5()">BIB</button>
   <a href="https://jdmdh.episciences.org/9949/pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -145,7 +145,7 @@
 </script>
 
 <p>
-  Hansen, Damien and Pierre-Yves Houlmont. &ldquo;<span style="color:#55B5E5;">A Snapshot into the Possibility of Video Game Machine Translation</span>&rdquo;. <i>Proceedings of the 15th Biennial Conference of the Association for Machine Translation in the Americas</i>, vol.&nbsp;2, edited by Janice Campbell, Stephen Larocca, Jay Marciano, Konstantin Savenkov and Alex Yanishevsky, AMTA, 2022, pp.&nbsp;257&ndash;269.<br>
+  Hansen, Damien and Pierre-Yves Houlmont. &ldquo;<span style="color:#55B5E5;">A Snapshot into the Possibility of Video Game Machine Translation</span>.&rdquo; <i>Proceedings of the 15th Biennial Conference of the Association for Machine Translation in the Americas</i>, vol.&nbsp;2, edited by Janice Campbell, Stephen Larocca, Jay Marciano, Konstantin Savenkov and Alex Yanishevsky, AMTA, 2022, pp.&nbsp;257&ndash;269.<br>
   <a href="https://aclanthology.org/2022.amta-upg.18" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib4()">BIB</button>
   <a href="https://aclanthology.org/2022.amta-upg.18.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -179,7 +179,7 @@
 </script>
 
 <p>
-  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Formalisations du jeu vidéo&nbsp;: la métaphore langagière du jeu mise à l’épreuve au travers du concept de ludème</span>&rdquo;. <i>Sciences du jeu</i>, no.&nbsp;17, 2022, doi: 10.4000/sdj.3975.<br>
+  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Formalisations du jeu vidéo&nbsp;: la métaphore langagière du jeu mise à l'épreuve au travers du concept de ludème</span>.&rdquo; <i>Sciences du jeu</i>, no.&nbsp;17, 2022, doi: 10.4000/sdj.3975.<br>
   <a href="https://journals.openedition.org/sdj/3975" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib3()">BIB</button>
   <a href="https://journals.openedition.org/sdj/pdf/3975" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -213,7 +213,7 @@
 </script>
 
 <p>
-  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Les lettres et la machine&nbsp;: un état de l’art en traduction littéraire automatique</span>&rdquo;. <i>Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles</i>, vol.&nbsp;2, edited by Pascal Denis, Natalia Grabar, Amel Fraisse, Rémi Cardon, Bernard Jacquemin, Eric Kergosien and Antonio Balvet, ATALA, 2021, pp.&nbsp;28&ndash;45.<br>
+  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Les lettres et la machine&nbsp;: un état de l'art en traduction littéraire automatique</span>.&rdquo; <i>Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles</i>, vol.&nbsp;2, edited by Pascal Denis, Natalia Grabar, Amel Fraisse, Rémi Cardon, Bernard Jacquemin, Eric Kergosien and Antonio Balvet, ATALA, 2021, pp.&nbsp;28&ndash;45.<br>
   <a href="https://aclanthology.org/2021.jeptalnrecital-recital.3" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib2()">BIB</button>
   <a href="https://aclanthology.org/2021.jeptalnrecital-recital.3.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -247,7 +247,7 @@
 </script>
 
 <p>
-  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Défis et pertinence de la traduction littéraire assistée par ordinateur</span>&rdquo;. <i>La main de Thôt</i>, no.&nbsp;9, 2021.<br>
+  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Défis et pertinence de la traduction littéraire assistée par ordinateur</span>.&rdquo; <i>La main de Thôt</i>, no.&nbsp;9, 2021.<br>
   <a href="https://revues.univ-tlse2.fr/lamaindethot/index.php?id=982" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib1()">BIB</button>
   <a href="http://interfas.univ-tlse2.fr/lamaindethot/?do=_pdfgen_get&document=982&lang=fr" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -282,10 +282,10 @@
 
 <h3>Book Chapters</h3>
 
-<p>Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Le jeu vidéo envisagé comme langage</span>&rdquo;. <i>Culture vidéoludique&nbsp;!</i>, 2<sup>nd</sup>&nbsp;ed., edited by the Liège Game Lab, Presses Universitaires de Liège, in press.</p>
+<p>Hansen, Damien. &ldquo;<span style="color:#55B5E5;">Le jeu vidéo envisagé comme langage</span>.&rdquo; <i>Culture vidéoludique&nbsp;!</i>, 2<sup>nd</sup>&nbsp;ed., edited by the Liège Game Lab, Presses Universitaires de Liège, in press.</p>
 
 <p>
-  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">The Figure of the Literary Translator Amidst New Technologies</span>&rdquo;. <i>Translation, Interpreting and Technological Changes: Innovations in Research, Practice and Training</i>, edited by Marion Winters, Sharon Deane-Cox and Ursula Böser, Bloomsbury, 2024, pp.&nbsp;80&ndash;108, doi: 10.5040/9781350212978.0012.<br>
+  Hansen, Damien. &ldquo;<span style="color:#55B5E5;">The Figure of the Literary Translator Amidst New Technologies</span>.&rdquo; <i>Translation, Interpreting and Technological Changes: Innovations in Research, Practice and Training</i>, edited by Marion Winters, Sharon Deane-Cox and Ursula Böser, Bloomsbury, 2024, pp.&nbsp;80&ndash;108, doi: 10.5040/9781350212978.0012.<br>
   <a href="https://www.bloomsburycollections.com/monograph?docid=b-9781350212978" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib9()">BIB</button>
 </p>
@@ -322,7 +322,7 @@
 <h3>Edited Volumes</h3>
 
 <p>
-  Liège Game Lab (ed.). <i style="color:#55B5E5;">Entre le jeu et le joueur&nbsp;: écarts et médiations</i>, Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.24716.<br>
+  Liège Game Lab (ed.). <i style="color:#55B5E5;">Entre le jeu et le joueur&nbsp;: écarts et médiations.</i> Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.24716.<br>
   <a href="https://books.openedition.org/pulg/26521" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib7()">BIB</button>
 </p>
