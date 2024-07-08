@@ -11,6 +11,10 @@
 
 ### Positions
 
+#### Visiting Researcher (2024)
+Language and Translation Technology Team<br>
+Ghent, Belgium
+
 #### Visiting Researcher (2023)
 Centre for Translation and Textual Studies<br>
 Dublin, Ireland
