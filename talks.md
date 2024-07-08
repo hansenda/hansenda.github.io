@@ -41,6 +41,8 @@
 
 <h3>Invited Talks</h3>
 
+<p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/320461" target="_blank">Stylistically adapted literary machine translation: Contribution of a technically and ergonomically oriented perspective</a>&rdquo;. <i>Literary Translators and Technology: insights from user-centred research and literary translators' perspectives</i>, LT3, Ugent, Ghent, Belgium, 05/07/2024.</p>
+
 <p>Kenny, Dorothy and Damien Hansen. &ldquo;<a href="https://hdl.handle.net/2268/302554" target="_blank">Neural Machine Translation, Large Language Models and Literary Translation: The Story So Far</a>&rdquo;. <i>ITIA CPD</i>, ITIA, Trinity Centre for Literary and Cultural Translation, Dublin, Ireland, 08/05/2023.</p>
 
 <p>Hansen, Damien and Pierre-Yves Houlmont. &ldquo;<a href="https://hdl.handle.net/2268/296596" target="_blank">Traduction automatique de jeux vidéo&nbsp;: créativité, altérité et difficultés</a>&rdquo;. <i>Interculturalité et sexualité dans le jeu vidéo&nbsp;: fantasme ou réalité</i>, UMons – uB – ULB, Université de Mons, Mons, Belgium, 17/11/2022.</p>
