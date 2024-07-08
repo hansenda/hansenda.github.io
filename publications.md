@@ -14,8 +14,8 @@
 <h3>Books and Thesis</h3>
 
 <p>
-  Hansen, Damien. <i style="color:#55B5E5;">Évaluation experte d'un prototype d'aide à la traduction créative&nbsp;: La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux</i>, PhD thesis, University of Liège -- Grenoble Alpes University, 2024.<br>
-  <a href="https://books.openedition.org/pulg/18941" target="_blank"><button class="btn-url">URL</button></a>
+  Hansen, Damien. <i style="color:#55B5E5;">Évaluation experte d'un prototype d'aide à la traduction créative&nbsp;: La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux</i>, PhD thesis, University of Liège &ndash; Grenoble Alpes University, 2024.<br>
+  <a href="https://hdl.handle.net/2268/312631" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib10()">BIB</button>
 </p>
 
