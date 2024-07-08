@@ -11,7 +11,35 @@
 
 <div class="reference">
 
-<h3>Books</h3>
+<h3>Books and Thesis</h3>
+
+<p>
+  Hansen, Damien. <i style="color:#55B5E5;">Évaluation experte d'un prototype d'aide à la traduction créative&nbsp;: La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux</i>, PhD thesis, University of Liège -- Grenoble Alpes University, 2024.<br>
+  <a href="https://books.openedition.org/pulg/18941" target="_blank"><button class="btn-url">URL</button></a>
+  <button class="btn-bib" onclick="toggleBib10()">BIB</button>
+</p>
+
+<div id="bib10" style="display:none; background-color:black; padding-left: 2em;">
+  <pre>@book{hansen:2024:thesis,
+    title     = {Évaluation experte d'un prototype d'aide à la traduction créative : La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux},
+    author    = {Hansen, Damien},
+    year      = {2024},
+    type      = {PhD thesis},
+    school    = {University of Liège -- Grenoble Alpes University},
+    url       = {https://hdl.handle.net/2268/312631}}
+  </pre>
+</div>
+
+<script>
+  function toggleBib10(parameter) {
+    var x = document.getElementById('bib10');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+  }
+</script>
 
 <p>
   Hansen, Damien. <i style="color:#55B5E5;">Parler le jeu vidéo&nbsp;: Le ludème comme unité minimale d’une grammaire vidéoludique&nbsp;?</i>, Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.18941.<br>
