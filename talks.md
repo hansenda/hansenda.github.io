@@ -43,7 +43,7 @@
 
 <p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/320461" target="_blank">Stylistically adapted literary machine translation: Contribution of a technically and ergonomically oriented perspective</a>.&rdquo; <i>Literary Translators and Technology: insights from user-centred research and literary translators' perspectives</i>, LT3, Ugent, Ghent, Belgium, 05/07/2024.</p>
 
-<p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/314073" target="_blank">Détournements technologiques : Repenser la traduction littéraire automatique à l’aune de la traductologie cognitive et de la sociologie</a>.&rdquo; <i>Déviations traductologiques : Quand la traduction explore d'autres contrées&hellip;</i>, CECILLE, ULille, Lille, France, 26/01/2024.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/314073" target="_blank">Détournements technologiques&nbsp;: Repenser la traduction littéraire automatique à l’aune de la traductologie cognitive et de la sociologie</a>.&rdquo; <i>Déviations traductologiques&nbsp;: Quand la traduction explore d'autres contrées&hellip;</i>, CECILLE, ULille, Lille, France, 26/01/2024.</p>
 
 <p>Kenny, Dorothy and Damien Hansen. &ldquo;<a href="https://hdl.handle.net/2268/302554" target="_blank">Neural Machine Translation, Large Language Models and Literary Translation: The Story So Far</a>.&rdquo; <i>ITIA CPD</i>, ITIA, Trinity Centre for Literary and Cultural Translation, Dublin, Ireland, 08/05/2023.</p>
 
