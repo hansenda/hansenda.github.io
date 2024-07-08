@@ -322,7 +322,7 @@
 <h3>Edited Volumes</h3>
 
 <p>
-  Liège Game Lab (ed.). <i style="color:#55B5E5;">Entre le jeu et le joueur&nbsp;: écarts et médiations.</i> Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.24716.<br>
+  Liège Game Lab (ed.). <i style="color:#55B5E5;">Entre le jeu et le joueur&nbsp;: écarts et médiations</i>. Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.24716.<br>
   <a href="https://books.openedition.org/pulg/26521" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib7()">BIB</button>
 </p>
