@@ -11,6 +11,10 @@
 
 ### Positions
 
+#### Assistant Professor (2024 &ndash; Present)
+Université libre de Bruxelles<br>
+Brussels, Belgium
+
 #### Visiting Researcher (2024)
 Language and Translation Technology Team<br>
 Ghent, Belgium
