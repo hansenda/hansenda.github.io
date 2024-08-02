@@ -14,7 +14,7 @@
 <h3>Books and Thesis</h3>
 
 <p>
-  Hansen, Damien. <i style="color:#55B5E5;letter-spacing:-.1px">Évaluation experte d'un prototype d'aide à la traduction créative&nbsp;: La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux</i>. PhD thesis, University of Liège &ndash; Grenoble Alpes University, 2024.<br>
+  Hansen, Damien. <i style="color:#55B5E5;letter-spacing:-.1px">Évaluation experte d'un prototype d'aide à la traduction créative&nbsp;: la traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux</i>. PhD thesis, University of Liège &ndash; Grenoble Alpes University, 2024.<br>
   <a href="https://hdl.handle.net/2268/312631" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib10()">BIB</button>
   <a href="https://orbi.uliege.be/bitstream/2268/312631/1/these_hansen_v1.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -22,7 +22,7 @@
 
 <div id="bib10" style="display:none; background-color:black; padding-left: 2em;">
   <pre>@phdthesis{hansen:2024:thesis,
-    title     = {Évaluation experte d'un prototype d'aide à la traduction créative : La traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux},
+    title     = {Évaluation experte d'un prototype d'aide à la traduction créative : la traduction littéraire automatique individualisée au regard de ses enjeux traductologiques, éthiques et sociétaux},
     author    = {Hansen, Damien},
     year      = {2024},
     type      = {PhD thesis},
@@ -43,14 +43,14 @@
 </script>
 
 <p>
-  Hansen, Damien. <i style="color:#55B5E5;">Parler le jeu vidéo&nbsp;: Le ludème comme unité minimale d’une grammaire vidéoludique&nbsp;?</i> Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.18941.<br>
+  Hansen, Damien. <i style="color:#55B5E5;">Parler le jeu vidéo&nbsp;: le ludème comme unité minimale d’une grammaire vidéoludique&nbsp;?</i> Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.18941.<br>
   <a href="https://books.openedition.org/pulg/18941" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib8()">BIB</button>
 </p>
 
 <div id="bib8" style="display:none; background-color:black; padding-left: 2em;">
   <pre>@book{hansen:2023:pulg,
-    title     = {Parler le jeu vidéo : Le ludème comme unité minimale d'une grammaire vidéoludique ?},
+    title     = {Parler le jeu vidéo : le ludème comme unité minimale d'une grammaire vidéoludique ?},
     author    = {Hansen, Damien},
     series    = {Culture contemporaine},
     number    = {4},
@@ -112,7 +112,7 @@
 </script>
 
 <p>
-  Hansen, Damien, Emmanuelle Esperança-Rodier, Hervé Blanchon and Valérie Bada. &ldquo;<span style="color:#55B5E5;">La traduction littéraire automatique&nbsp;: Adapter la machine à la traduction humaine individualisée</span>.&rdquo; <i>Journal of Data Mining & Digital Humanities</i>, special issue: Vers une robotique du traduire&nbsp;?, 2022, doi: 10.46298/jdmdh.9114.<br>
+  Hansen, Damien, Emmanuelle Esperança-Rodier, Hervé Blanchon and Valérie Bada. &ldquo;<span style="color:#55B5E5;">La traduction littéraire automatique&nbsp;: adapter la machine à la traduction humaine individualisée</span>.&rdquo; <i>Journal of Data Mining & Digital Humanities</i>, special issue: Vers une robotique du traduire&nbsp;?, 2022, doi: 10.46298/jdmdh.9114.<br>
   <a href="https://doi.org/10.46298/jdmdh.9114" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib5()">BIB</button>
   <a href="https://jdmdh.episciences.org/9949/pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
@@ -120,7 +120,7 @@
 
 <div id="bib5" style="display:none; background-color:black; padding-left: 2em;">
   <pre>@article{hansen-etal:2022:jdmdh,
-    title     = {La traduction littéraire automatique : Adapter la machine à la traduction humaine individualisée},
+    title     = {La traduction littéraire automatique : adapter la machine à la traduction humaine individualisée},
     author    = {Hansen, Damien},
     journal   = {Journal of Data Mining & Digital Humanities},
     editor    = {Baillot, Anne and Carter, Ellen and Grass, Thierry and Ruiz Fabo, Pablo},
@@ -329,7 +329,7 @@
 
 <div id="bib7" style="display:none; background-color:black; padding-left: 2em;">
   <pre>@book{liege-game-lab:2023:pulg,
-    title     = {Entre le jeu et le joueur : Écarts et médiations},
+    title     = {Entre le jeu et le joueur : écarts et médiations},
     editor    = {Liège Game Lab},
     series    = {Jeu / Play / Spiel},
     number    = {6},
