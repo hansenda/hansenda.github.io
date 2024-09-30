@@ -13,7 +13,7 @@
 
 <h3>Scientific Events</h3>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/296597" target="_blank">Reappropriating Translation Technologies: Leveraging Translator Corpora for Individual and Creative Uses</a>.&rdquo; <i>2022 BAAHE Conference – Undercurrents: Challenging the Mainstream</i>, Lilith &ensp; CIRTI &ensp; CEREP, Université de Liège, Liège, Belgium, 02/12/2022.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/296597" target="_blank">Reappropriating Translation Technologies: Leveraging Translator Corpora for Individual and Creative Uses</a>.&rdquo; <i>2022 BAAHE Conference &ndash; Undercurrents: Challenging the Mainstream</i>, Lilith &ndash; CIRTI &ndash; CEREP, Université de Liège, Liège, Belgium, 02/12/2022.</p>
 
 <p>Hansen, Damien and Pierre-Yves Houlmont. &ldquo;<a href="https://hdl.handle.net/2268/294581" target="_blank">A Snapshot into the Possibility of Video Game Machine Translation</a>.&rdquo; <i>15th Biennial Conference of the Association for Machine Translation in the Americas</i>, AMTA, Sheraton Orlando, Orlando (FL), U.S.A., 15/09/2022.</p>
 
@@ -35,13 +35,13 @@
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242409" target="_blank">Morphologie du jeu vidéo&nbsp;: le ludème envisagé comme unité minimale fonctionnelle du jeu</a>.&rdquo; <i>Les langages du jeu vidéo&nbsp;: codes, discours et images en jeu</i>, UNIL GameLab, Université de Lausanne, Lausanne, Switzerland, 24/10/2019.</p>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242406" target="_blank">La traduction littéraire assistée par ordinateur&nbsp;: de l'unité de traduction à l'unité de style</a>.&rdquo; <i>Des unités de traduction à l'unité de la traduction</i>, Paris-VII &ensp; ULB &ensp; UniGE, Université libre de Bruxelles, Brussels, Belgium, 21/10/2017.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242406" target="_blank">La traduction littéraire assistée par ordinateur&nbsp;: de l'unité de traduction à l'unité de style</a>.&rdquo; <i>Des unités de traduction à l'unité de la traduction</i>, Paris-VII &ndash; ULB &ndash; UniGE, Université libre de Bruxelles, Brussels, Belgium, 21/10/2017.</p>
 
 <br>
 
 <h3>Invited Talks</h3>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/322806" target="_blank">Mettre au point un système de TAN&nbsp;: l'influence des corpus sur l'entraînement et les sorties de traduction automatique</a>.&rdquo; <i>Journée mondiale de la traduction 2024&nbsp;: Les enjeux de l'intelligence artificielle</i>, SFT &ensp; EMMA, Université Paul Valéry, Montpellier, France, 28/09/2024.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/322806" target="_blank">Mettre au point un système de TAN&nbsp;: l'influence des corpus sur l'entraînement et les sorties de traduction automatique</a>.&rdquo; <i>Journée mondiale de la traduction 2024&nbsp;: Les enjeux de l'intelligence artificielle</i>, SFT &ndash; EMMA, Université Paul Valéry, Montpellier, France, 28/09/2024.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/320461" target="_blank">Stylistically adapted literary machine translation: Contribution of a technically and ergonomically oriented perspective</a>.&rdquo; <i>Literary Translators and Technology: insights from user-centred research and literary translators' perspectives</i>, LT3, Universiteit Gent, Ghent, Belgium, 05/07/2024.</p>
 
@@ -49,7 +49,7 @@
 
 <p>Kenny, Dorothy and Damien Hansen. &ldquo;<a href="https://hdl.handle.net/2268/302554" target="_blank">Neural Machine Translation, Large Language Models and Literary Translation: The Story So Far</a>.&rdquo; <i>ITIA CPD</i>, ITIA, Trinity Centre for Literary and Cultural Translation, Dublin, Ireland, 08/05/2023.</p>
 
-<p>Hansen, Damien and Pierre-Yves Houlmont. &ldquo;<a href="https://hdl.handle.net/2268/296596" target="_blank">Traduction automatique de jeux vidéo&nbsp;: créativité, altérité et difficultés</a>.&rdquo; <i>Interculturalité et sexualité dans le jeu vidéo&nbsp;: fantasme ou réalité&nbsp;?</i>, UMons &ensp; uB &ensp; ULB, Université de Mons, Mons, Belgium, 17/11/2022.</p>
+<p>Hansen, Damien and Pierre-Yves Houlmont. &ldquo;<a href="https://hdl.handle.net/2268/296596" target="_blank">Traduction automatique de jeux vidéo&nbsp;: créativité, altérité et difficultés</a>.&rdquo; <i>Interculturalité et sexualité dans le jeu vidéo&nbsp;: fantasme ou réalité&nbsp;?</i>, UMons &ndash; uB &ndash; ULB, Université de Mons, Mons, Belgium, 17/11/2022.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/296587" target="_blank">How to train your own neural machine translation program</a>.&rdquo; <i>Traduction littéraire et intelligence artificielle&nbsp;: théorie, pratique, création</i>, TRACT, Université Sorbonne Nouvelle, Paris, France, 21/10/2022.</p>
 	
