@@ -1,11 +1,11 @@
-<center>
-  &vert;&ensp;
-  <a href="index.html">Home</a>&ensp;&vert;&ensp;
-  <a href="resume.html">CV</a>&ensp;&vert;&ensp;
-  <a href="publications.html">Publications</a>&ensp;&vert;&ensp;
-  <a href="talks.html">Talks</a>&ensp;&vert;&ensp;
-  <a href="education.html">Education</a>&ensp;&vert;
-</center>
+<p style="text-align-last:justify;">
+  &vert; 
+  <a href="home.html">Home</a> &vert; 
+  <a href="resume.html">CV</a> &vert; 
+  <a href="publications.html">Publications</a> &vert; 
+  <a href="talks.html">Talks</a> &vert; 
+  <a href="education.html">Education</a> &vert;
+</p>
 
 <br>
 
