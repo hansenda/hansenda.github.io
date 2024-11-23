@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 h1,h2,h3,h4 {
-  color: #55B5E5;}
+  color: #BDF995;}
 
 h4 {
   font-style: italic;
@@ -12,17 +12,18 @@ h4 {
 
 body {
   color: #FFFFFF;
-  background-color: #000000;}
+  background-color: #20202B;}
 
 a:link, a:visited {
-  color: #55B5E5;
+  color: #BDF995;
   font-weight: normal;}
 
 a:hover {
-  color: #2166B1;
-  font-weight: normal;}
+  color: #FFFFFF;
+  font-weight: normal;
+  transition: 0.15s ease-in-out;}
 
-table, tr, td, th{
+table, tr, td, th {
   padding: 0px;
   border: none;}
 
