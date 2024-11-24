@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-h1,h2,h3,h4 {
+h1, h2, h3, h4 {
   color: #BDF995;}
 
 h4 {
@@ -44,23 +44,11 @@ button {
   border: 0px;
   transition: background-color 0.15s ease-in-out;}
 
-.btn-pdf {
-  background-color: #429455;}
+.btn-url, .btn-pdf, .btn-bib {
+  background-color: #20202B;}
 
-.btn-pdf:hover {
-  background-color: #357644;}
-
-.btn-url {
-  background-color: #3369A2;}
-
-.btn-url:hover {
-  background-color: #295482;}
-
-.btn-bib {
-  background-color: #DC3545;}
-
-.btn-bib:hover {
-  background-color: #C82333;}
+.btn-pdf:hover, .btn-url:hover, .btn-bib:hover {
+  background-color: #BDF995;}
 
 .reference > p {
   padding-left: 2rem;
