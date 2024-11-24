@@ -48,10 +48,9 @@ button {
   background-color: #20202B;}
 
 .btn-pdf:hover, .btn-url:hover, .btn-bib:hover {
-  background-color: #BDF995;
-  transition: background-color 5s ease-in-out;
   color: #20202B;
-  transition: color 5s ease-in-out;}
+  background-color: #BDF995;
+  transition: 5s ease-in-out;}
 
 .reference > p {
   padding-left: 2rem;
