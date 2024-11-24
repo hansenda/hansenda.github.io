@@ -1,6 +1,6 @@
 <p style="text-align-last:justify;">
   &vert; 
-  <a href="home.html">Home</a> &vert; 
+  <a href="index.html">Home</a> &vert; 
   <a href="resume.html">CV</a> &vert; 
   <a href="publications.html">Publications</a> &vert; 
   <a href="talks.html">Talks</a> &vert; 
