@@ -40,12 +40,12 @@ button {
   text-align: center;
   vertical-align: middle;
   padding: 0.25rem 0.5rem;
-  border-radius: 10%;
+  border-radius: 20%;
   border: 0px;
   transition: background-color 0.15s ease-in-out;}
 
 .btn-url, .btn-pdf, .btn-bib {
-  border: 1px solid #BDF995;
+  border: 2px solid #BDF995;
   background-color: #20202B;}
 
 .btn-pdf:hover, .btn-url:hover, .btn-bib:hover {
