@@ -45,6 +45,7 @@ button {
   transition: background-color 0.15s ease-in-out;}
 
 .btn-url, .btn-pdf, .btn-bib {
+  border: 1px solid #BDF995;
   background-color: #20202B;}
 
 .btn-pdf:hover, .btn-url:hover, .btn-bib:hover {
