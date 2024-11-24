@@ -284,7 +284,7 @@
 
 <p>
   Hansen, Damien. &ldquo;<a href="https://doi.org/10.5040/9781350212978.0012" target="_blank">The Figure of the Literary Translator Amidst New Technologies</a>.&rdquo; <i>Translation, Interpreting and Technological Changes: Innovations in Research, Practice and Training</i>, edited by Marion Winters, Sharon Deane-Cox and Ursula Böser, Bloomsbury, 2024, pp.&nbsp;80&ndash;108, doi: 10.5040/9781350212978.0012.<br>
-  <a href="https://www.bloomsburycollections.com/monograph?docid=b-9781350212978" target="_blank"><button class="btn-url">URL</button></a>
+  <a href="https://doi.org/10.5040/9781350212978.0012" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib9()">BIB</button>
 </p>
 
@@ -321,7 +321,7 @@
 
 <p>
   Liège Game Lab (ed.). <a href="https://doi.org/10.4000/books.pulg.24716" target="_blank"><i>Entre le jeu et le joueur&nbsp;: écarts et médiations</i></a>. Presses Universitaires de Liège, 2023, doi: 10.4000/books.pulg.24716.<br>
-  <a href="https://books.openedition.org/pulg/26521" target="_blank"><button class="btn-url">URL</button></a>
+  <a href="https://doi.org/10.4000/books.pulg.24716" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib7()">BIB</button>
 </p>
 
