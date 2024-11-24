@@ -42,14 +42,16 @@ button {
   padding: 0.25rem 0.5rem;
   border: 1px solid #BDF995;
   border-radius: 15%;
-  transition: background-color 0.15s ease-in-out;
   margin-top: 0.25rem;}
 
 .btn-url, .btn-pdf, .btn-bib {
   background-color: #20202B;}
 
 .btn-pdf:hover, .btn-url:hover, .btn-bib:hover {
-  background-color: #BDF995;}
+  background-color: #BDF995;
+  transition: background-color 0.15s ease-in-out;
+  color: #20202B;
+  transition: color 0.15s ease-in-out;}
 
 .reference > p {
   padding-left: 2rem;
