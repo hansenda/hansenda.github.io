@@ -65,17 +65,19 @@
 
 <h3>Outreach</h3>
 
-<p>&ldquo;<a href="https://bx1.be/radio-emission/prompt-google-traduction-deepl-lia-en-traduction-automatique-21-09-2024/" target="_blank">L'IA en traduction automatique</a>.&rdquo; Podcast <i>Prompt</i>, 21/09/2024.</p>
+<p>Podcast: &ldquo;<a href="https://bx1.be/radio-emission/prompt-google-traduction-deepl-lia-en-traduction-automatique-21-09-2024/" target="_blank">L'IA en traduction automatique</a>.&rdquo; <i>Prompt</i> by BX1, 21/09/2024.</p>
 
-<p>&ldquo;<a href="https://kollektive-intelligenz.de/originals/customized-mt-engines-for-literary-translators-a-case-study/" target="_blank">Customized MT engines for literary translators – A case study</a> / <a href="https://kollektive-intelligenz.de/originals/personalisierte-ki-fuers-literaturuebersetzen-eine-fallstudie/" target="_blank">Personalisierte KI fürs Literaturübersetzen – eine Fallstudie</a>.&rdquo; Interview for <i>Kollektive Intelligenz</i>, 07/06/2024.</p>
+<p>Interview: &ldquo;<a href="https://kollektive-intelligenz.de/originals/customized-mt-engines-for-literary-translators-a-case-study/" target="_blank">Customized MT engines for literary translators – A case study</a> / <a href="https://kollektive-intelligenz.de/originals/personalisierte-ki-fuers-literaturuebersetzen-eine-fallstudie/" target="_blank">Personalisierte KI fürs Literaturübersetzen – eine Fallstudie</a>.&rdquo; <i>Kollektive Intelligenz</i>, 07/06/2024.</p>
 
-<p>&ldquo;<a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Counterpoint_2023_10.pdf#Counterpoint_Eng_10.indd%3A.44866%3A475" target="_blank">The ambivalence
-of machine translation and AI: Resource or replacement?</a> / <a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Contrepoint_2023_10.pdf#Counterpoint_Fre_10.indd%3A.49756%3A533" target="_blank">Ressource ou substitut&nbsp;? L'ambivalence de la traduction automatique et de l'IA</a>.&rdquo; <i>Counterpoint</i>, no.&nbsp;10, special issue on AI and literary translation, CEATL, 19/12/2023.</p>
+Contribution: <p>&ldquo;<a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Counterpoint_2023_10.pdf#Counterpoint_Eng_10.indd%3A.44866%3A475" target="_blank">The ambivalence of machine translation and AI: Resource or replacement?</a> / <a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Contrepoint_2023_10.pdf#Counterpoint_Fre_10.indd%3A.49756%3A533" target="_blank">Ressource ou substitut&nbsp;? L'ambivalence de la traduction automatique et de l'IA</a>.&rdquo; <i>Counterpoint</i>, no.&nbsp;10, special issue on AI and literary translation, CEATL, 19/12/2023.</p>
 
-<p>&ldquo;<a href="https://www.machinetranslation.com/blog/machine-translation-for-literary-texts" target="_blank">Machine translation for literary texts?</a>&rdquo; Interview on <i>MachineTranslation.com</i>, 21/12/2022.</p>
+Interview: <p>&ldquo;<a href="https://www.machinetranslation.com/blog/machine-translation-for-literary-texts" target="_blank">Machine translation for literary texts?</a>&rdquo; <i>MachineTranslation.com</i>, 21/12/2022.</p>
 
-<p>&ldquo;<a href="https://podcast.ausha.co/lost-in-translation/damien-doctorant-la-traduction-litteraire-automatique" target="_blank">La traduction littéraire automatique</a>.&rdquo; Podcast <i>Lost in Translation</i>, 17/09/2022.</p>
+Podcast: <p>&ldquo;<a href="https://podcast.ausha.co/lost-in-translation/damien-doctorant-la-traduction-litteraire-automatique" target="_blank">La traduction littéraire automatique</a>.&rdquo; <i>Lost in Translation</i>, 17/09/2022.</p>
   
-<p>&ldquo;<a href="https://artsetpublics.be/programmes/numbers/" target="_blank">Le ludème comme base d'un langage du jeu vidéo&nbsp;?</a>&rdquo; Training initiative <i>NUMBERS</i> by Arts&amp;Publics, 10/10/2020.</p>
+Vocational training: <p>&ldquo;<a href="https://artsetpublics.be/programmes/numbers/" target="_blank">Le ludème comme base d'un langage du jeu vidéo&nbsp;?</a>&rdquo; <i>NUMBERS</i> initiative by Arts&amp;Publics, 10/10/2020.</p>
+
+Interview: <p>&ldquo;<a href="https://www.lemonde.fr/pixels/article/2019/11/01/spatiale-textuelle-oulipesque-l-etonnante-grammaire-du-jeu-video_6017674_4408996.html
+" target="_blank">Spatiale, textuelle, oulipesque&hellip; L'étonnante grammaire du jeu vidéo</a>.&rdquo; <i>Le Monde</i>, 01/11/2019.</p>
 
 </div>
