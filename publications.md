@@ -79,6 +79,38 @@
 <h3>Articles in Journals and Proceedings</h3>
 
 <p>
+  Hansen, Damien. &ldquo;<a href="https://doi.org/10.4000/12spf" target="_blank">Traduction automatique neuronale et textes littéraires&nbsp;: bibliographie raisonnée</a>.&rdquo; <i>Palimpsestes</i>, no.&nbsp;38, 2024, doi: 10.4000/12spf.<br>
+  <a href="https://doi.org/10.4000/12spf" target="_blank"><button class="btn-url">URL</button></a>
+  <button class="btn-bib" onclick="toggleBib11()">BIB</button>
+</p>
+
+<div id="bib11" style="display:none; background-color:#20202B; padding-left: 2em;">
+  <pre>@article{hansen:2024:palimpsestes,
+    title     = {Traduction automatique neuronale et textes littéraires : bibliographie raisonnée},
+    author    = {Hansen, Damien},
+    journal   = {Palimpsestes},
+    editor    = {Baillot, Anne and Carter, Ellen and Grass, Thierry and Ruiz Fabo, Pablo},
+    number    = {38},
+    issuetitle= {Traduction littéraire et intelligence artificielle : théorie, pratique, création},
+    year      = {2024},
+    issn      = {2109-943X},
+    doi       = {10.4000/12spf},
+    url       = {https://journals.openedition.org/palimpsestes/9253}}
+  </pre>
+</div>
+
+<script>
+  function toggleBib11(parameter) {
+    var x = document.getElementById('bib11');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+  }
+</script>
+
+<p>
   Hansen, Damien and Emmanuelle Esperança-Rodier. &ldquo;<a href="https://acl-anthology.online/nettt-2022/" target="_blank">Human-Adapted MT for Literary Texts: Reality or Fantasy?</a>&rdquo; <i>Proceedings of the New Trends in Translation and Technology Conference</i>, edited by Sheila Castilho, Rocío Caro Quintana, Maria Stasimioti and Vilelmini Sosoni, NeTTT, 2023, pp.&nbsp;178&ndash;190.<br>
   <a href="https://acl-anthology.online/nettt-2022/" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib6()">BIB</button>
