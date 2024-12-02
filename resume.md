@@ -180,6 +180,8 @@ Liège Game Lab, ULiège, Liège, Belgium (10&ndash;13/08/2020)
 
 ### Peer Review
 
+*Palimpsestes*, no.&nbsp;38: <a href="https://journals.openedition.org/palimpsestes/8675" target="_blank">Traduction littéraire et intelligence artificielle&nbsp;: théorie, pratique, création</a> (2024)
+
 *Tradumàtica*, no.&nbsp;21: <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank">Computer-Aided Literary Translation</a> (2023)
 
 &nbsp;
