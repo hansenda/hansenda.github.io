@@ -79,7 +79,7 @@
 <h3>Articles in Journals and Proceedings</h3>
 
 <p>
-  Hansen, Damien. &ldquo;<a href="https://doi.org/10.4000/12spf" target="_blank">Traduction automatique neuronale et textes littéraires&nbsp;: bibliographie raisonnée</a>.&rdquo; <i>Palimpsestes</i>, no.&nbsp;38, 2024, doi: 10.4000/12spf.<br>
+  Hansen, Damien. &ldquo;<a href="https://doi.org/10.4000/12spf" target="_blank">Traduction automatique neuronale et textes littéraires&nbsp;: bibliographie raisonnée</a>.&rdquo; <i>Palimpsestes</i>, no.&nbsp;38, 2024, pp.&nbsp;186&ndash;190, doi: 10.4000/12spf.<br>
   <a href="https://doi.org/10.4000/12spf" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib11()">BIB</button>
 </p>
@@ -93,6 +93,7 @@
     number    = {38},
     issuetitle= {Traduction littéraire et intelligence artificielle : théorie, pratique, création},
     year      = {2024},
+    pages     = {186--190},
     issn      = {2109-943X},
     doi       = {10.4000/12spf},
     url       = {https://journals.openedition.org/palimpsestes/9253}}
