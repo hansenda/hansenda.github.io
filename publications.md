@@ -95,7 +95,8 @@
     year      = {2024},
     pages     = {33--60},
     issn      = {2818-0100},
-    url       = {https://revuemultimodalites.com/articles/houlmont_dupont_hansen}}
+    url       = {https://revuemultimodalites.com/articles/houlmont_dupont_hansen},
+    copyright = {CC BY-NC-ND 4.0}}
   </pre>
 </div>
 
