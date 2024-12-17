@@ -139,6 +139,9 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 
 ### Organizing Committees
 
+<a href="https://ctt2025.ccl.kuleuven.be/" target="_blank">*Second Workshop on Creative-text Translation and Technology*</a><br>
+FTI, UNIGE, Geneva, Switzerland (24/06/2025)
+
 <a href="https://www.cirti.uliege.be/translation-corpora-2023" target="_blank">*Workshop on Corpora in Translation Education*</a><br>
 CIRTI &ndash; Lilith, ULiège, Liège, Belgium (25/05/2023)
 
@@ -155,7 +158,7 @@ CIRTI, ULiège, Liège, Belgium (06/05/2019)
 
 ### Scientific Committees
 
-<a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank">*Workshop on Creative-text Translation and Technology*</a><br>
+<a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank">*First Workshop on Creative-text Translation and Technology*</a><br>
 EAMT, TUOS, Sheffield, United Kingdom (27/06/2024)
 
 <a href="https://www.fabula.org/actualites/117266/dante-en-belgique-francophone-de-la-traduction-aux-transcreations-semiotiques.html" target="_blank" style="letter-spacing:-.1px">*Dante en Belgique francophone&nbsp;: de la traduction aux transcréations sémiotiques*</a><br>
