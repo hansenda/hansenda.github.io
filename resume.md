@@ -183,6 +183,8 @@ Liège Game Lab, ULiège, Liège, Belgium (10&ndash;13/08/2020)
 
 ### Peer Review
 
+*Multimodalité(s)*, no.&nbsp;20: <a href="https://revuemultimodalites.com/volumes/20" target="_blank">État des lieux et perspectives de la recherche en littératie médiatique multimodale&nbsp;: place aux chercheur&middot;euse&middot;s émergent&middot;e&middot;s</a> (2024)
+
 *Palimpsestes*, no.&nbsp;38: <a href="https://journals.openedition.org/palimpsestes/8675" target="_blank">Traduction littéraire et intelligence artificielle&nbsp;: théorie, pratique, création</a> (2024)
 
 *Tradumàtica*, no.&nbsp;21: <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank">Computer-Aided Literary Translation</a> (2023)
