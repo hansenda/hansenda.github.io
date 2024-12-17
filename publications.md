@@ -79,6 +79,38 @@
 <h3>Articles in Journals and Proceedings</h3>
 
 <p>
+   Houlmont, Pierre-Yves, Bruno Dupont and Damien Hansen. &ldquo;<a href="https://revuemultimodalites.com/articles/houlmont_dupont_hansen" target="_blank">Littératie et capital vidéoludique&nbps;: approche systématique et textométrique d'un domaine hétéroclite</a>.&rdquo; <i>Multimodalité(s)</i>, no.&nbsp;20, 2024, pp.&nbsp;33&ndash;60.<br>
+  <a href="https://revuemultimodalites.com/articles/houlmont_dupont_hansen" target="_blank"><button class="btn-url">URL</button></a>
+  <button class="btn-bib" onclick="toggleBib12()">BIB</button>
+</p>
+
+<div id="bib12" style="display:none; background-color:#20202B; padding-left: 2em;">
+  <pre>@article{houlmont-dupont-hansen:2024:multimodalités,
+    title     = {Littératie et capital vidéoludique : approche systématique et textométrique d'un domaine hétéroclite},
+    author    = {Houlmont, Pierre-Yves and Dupont, Bruno and Hansen, Damien},
+    journal   = {Multimodalité(s)},
+    editor    = {Vallières, Amélie and Gladu, Eve and Mercure, Catherine},
+    number    = {20},
+    issuetitle= {État des lieux et perspectives de la recherche en littératie médiatique multimodale : place aux chercheur·euse·s émergent·e·s},
+    year      = {2024},
+    pages     = {33--60},
+    issn      = {2818-0100},
+    url       = {https://revuemultimodalites.com/articles/houlmont_dupont_hansen}}
+  </pre>
+</div>
+
+<script>
+  function toggleBib12(parameter) {
+    var x = document.getElementById('bib12');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+  }
+</script>
+
+<p>
   Hansen, Damien. &ldquo;<a href="https://doi.org/10.4000/12spf" target="_blank">Traduction automatique neuronale et textes littéraires&nbsp;: bibliographie raisonnée</a>.&rdquo; <i>Palimpsestes</i>, no.&nbsp;38, 2024, pp.&nbsp;186&ndash;190, doi: 10.4000/12spf.<br>
   <a href="https://doi.org/10.4000/12spf" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib11()">BIB</button>
