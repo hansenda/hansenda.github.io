@@ -79,7 +79,7 @@
 <h3>Articles in Journals and Proceedings</h3>
 
 <p>
-   Houlmont, Pierre-Yves, Bruno Dupont and Damien Hansen. &ldquo;<a href="https://revuemultimodalites.com/articles/houlmont_dupont_hansen" target="_blank">Littératie et capital vidéoludique&nbps;: approche systématique et textométrique d'un domaine hétéroclite</a>.&rdquo; <i>Multimodalité(s)</i>, no.&nbsp;20, 2024, pp.&nbsp;33&ndash;60.<br>
+   Houlmont, Pierre-Yves, Bruno Dupont and Damien Hansen. &ldquo;<a href="https://revuemultimodalites.com/articles/houlmont_dupont_hansen" target="_blank">Littératie et capital vidéoludique&nbsp;: approche systématique et textométrique d'un domaine hétéroclite</a>.&rdquo; <i>Multimodalité(s)</i>, no.&nbsp;20, 2024, pp.&nbsp;33&ndash;60.<br>
   <a href="https://revuemultimodalites.com/articles/houlmont_dupont_hansen" target="_blank"><button class="btn-url">URL</button></a>
   <button class="btn-bib" onclick="toggleBib12()">BIB</button>
 </p>
