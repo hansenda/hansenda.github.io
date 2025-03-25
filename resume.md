@@ -193,7 +193,7 @@ Liège Game Lab, ULiège, Liège, Belgium (10&ndash;13/08/2020)
 
 ### Awards and Scholarships
 
-Travel grant &ndash; F.R.S.-FNRS (2023)
+CIVIS strategic partnership &ndash; UNIL-ULB (2025)
 
 Bourse de la Fondation Duesberg-Baily Thil Lorrain &ndash; ULiège Heritage (2020)
 
