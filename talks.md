@@ -65,6 +65,8 @@
 
 <h3>Outreach</h3>
 
+<p>Roundtable: &ldquo;<a href="https://flb.be/journee-de-la-traduction/" target="_blank">Traduire (?) bientôt (?) la littérature avec l'IA&nbsp;?</a>.&rdquo; <i>Foire du livre de Bruxelles</i>, 13/03/2025.</p>
+
 <p>Podcast: &ldquo;<a href="https://bx1.be/radio-emission/prompt-google-traduction-deepl-lia-en-traduction-automatique-21-09-2024/" target="_blank">L'IA en traduction automatique</a>.&rdquo; <i>Prompt</i> by BX1, 21/09/2024.</p>
 
 <p>Interview: &ldquo;<a href="https://kollektive-intelligenz.de/originals/customized-mt-engines-for-literary-translators-a-case-study/" target="_blank">Customized MT engines for literary translators – A case study</a> / <a href="https://kollektive-intelligenz.de/originals/personalisierte-ki-fuers-literaturuebersetzen-eine-fallstudie/" target="_blank">Personalisierte KI fürs Literaturübersetzen – eine Fallstudie</a>.&rdquo; <i>Kollektive Intelligenz</i>, 07/06/2024.</p>
