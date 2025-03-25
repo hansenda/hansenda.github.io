@@ -13,6 +13,14 @@
 
 <h3>Scientific Events</h3>
 
+<p>Hansen, Damien. &ldquo;The Ergonomics of Literary Machine Translation: Effects of Technology on Translator Flow.&rdquo; <i>11th EST Congress: The Changing Faces of Translation and Interpreting Studies</i>, CTIS, University of Leeds, Leeds, United Kingdom, 03/07/2025.</p>
+
+<p>Hansen, Damien. &ldquo;The Timely Archiving of Translation Technologies: Transformation, Challenges and Trends.&rdquo; <i>DigiCAM25: Born-Digital Collections, Archives and Memory</i>, SAS, University of London, London, United Kingdom, 02/04/2025.</p>
+
+<p>Rivas Ginel, María Isabel, Pierre Voué, Pierre-Yves Houlmont and Damien Hansen. &ldquo;A Game for the Crowds: Neutral Mode on!&rdquo; <i>Fun for All VII: InternationalConference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
+
+<p>Houlmont, Pierre-Yves and Damien Hansen. &ldquo;A Snapshot into the Limits and Risks of Video Game Machine Translation.&rdquo; <i>Fun for All VII: InternationalConference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 30/01/2025.</p>
+
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/296597" target="_blank">Reappropriating Translation Technologies: Leveraging Translator Corpora for Individual and Creative Uses</a>.&rdquo; <i>2022 BAAHE Conference &ndash; Undercurrents: Challenging the Mainstream</i>, Lilith &ndash; CIRTI &ndash; CEREP, Université de Liège, Liège, Belgium, 02/12/2022.</p>
 
 <p>Hansen, Damien and Pierre-Yves Houlmont. &ldquo;<a href="https://hdl.handle.net/2268/294581" target="_blank">A Snapshot into the Possibility of Video Game Machine Translation</a>.&rdquo; <i>15th Biennial Conference of the Association for Machine Translation in the Americas</i>, AMTA, Sheraton Orlando, Orlando (FL), U.S.A., 15/09/2022.</p>
@@ -41,6 +49,12 @@
 
 <h3>Invited Talks</h3>
 
+<p>Hansen, Damien. &ldquo;Creative Texts, Translation Technology and Translator Corpora.&rdquo; <i>SGA Research Seminar</i>, SGA, Lancaster University, Lancaster, United Kingdom, 11/03/2025.</p>
+
+<p>Hansen, Damien. &ldquo;Personnalisation des systèmes de traduction automatique par le style individuel des traductaires littéraires&nbsp;: Apports d'une contribution technique puis ergonomique.&rdquo; <i>Nouvelles approches didactiques de la traduction et de l'interprétation</i>, CLESTHIA, Université Sorbonne Nouvelle, Paris, France, 15/02/2025.</p>
+
+<p>Hansen, Damien. &ldquo;Détournements technologiques&nbsp;: repenser la traduction littéraire automatique à l’aune de la traductologie cognitive et de la sociologie.&rdquo; <i>Penser les interactions entre humains et machines en traduction</i>, CECILLE, Université de Lille, Lille, France, 24/01/2025.</p>
+
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/322806" target="_blank">Mettre au point un système de TAN&nbsp;: l'influence des corpus sur l'entraînement et les sorties de traduction automatique</a>.&rdquo; <i>Journée mondiale de la traduction 2024&nbsp;: Les enjeux de l'intelligence artificielle</i>, SFT &ndash; EMMA, Université Paul Valéry, Montpellier, France, 28/09/2024.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/320461" target="_blank">Stylistically adapted literary machine translation: Contribution of a technically and ergonomically oriented perspective</a>.&rdquo; <i>Literary Translators and Technology: insights from user-centred research and literary translators' perspectives</i>, LT3, Universiteit Gent, Ghent, Belgium, 05/07/2024.</p>
@@ -65,7 +79,7 @@
 
 <h3>Outreach</h3>
 
-<p>Roundtable: &ldquo;<a href="https://flb.be/journee-de-la-traduction/" target="_blank">Traduire (?) bientôt (?) la littérature avec l'IA&nbsp;?</a>.&rdquo; <i>Foire du livre de Bruxelles</i>, 13/03/2025.</p>
+<p>Roundtable: &ldquo;<a href="https://flb.be/journee-de-la-traduction/" target="_blank">Traduire (?) bientôt (?) la littérature avec l'IA&nbsp;?</a>&rdquo; <i>Foire du livre de Bruxelles</i>, 13/03/2025.</p>
 
 <p>Podcast: &ldquo;<a href="https://bx1.be/radio-emission/prompt-google-traduction-deepl-lia-en-traduction-automatique-21-09-2024/" target="_blank">L'IA en traduction automatique</a>.&rdquo; <i>Prompt</i> by BX1, 21/09/2024.</p>
 
