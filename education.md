@@ -37,6 +37,8 @@ History and analysis of the use of video games (ULiège, 2020 &amp; 2021)
 
 ### Projects
 
+Organization of a faculty seminar on AI and sustainability
+
 Publication of a biannual faculty journal of translated news articles involving a dedicated teaching team, BA and MA students.
 
 Supervision of seminars for students writing their MA thesis.
