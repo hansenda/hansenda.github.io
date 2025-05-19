@@ -17,9 +17,9 @@
 
 <p>Hansen, Damien. &ldquo;The Timely Archiving of Translation Technologies: Transformation, Challenges and Trends.&rdquo; <i>DigiCAM25: Born-Digital Collections, Archives and Memory</i>, SAS, University of London, London, United Kingdom, 02/04/2025.</p>
 
-<p>Rivas Ginel, María Isabel, Pierre Voué, Pierre-Yves Houlmont and Damien Hansen. &ldquo;A Game for the Crowds: Neutral Mode on!&rdquo; <i>Fun for All VII: InternationalConference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
+<p>Rivas Ginel, María Isabel, Pierre Voué, Pierre-Yves Houlmont and Damien Hansen. &ldquo;A Game for the Crowds: Neutral Mode on!&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
 
-<p>Houlmont, Pierre-Yves and Damien Hansen. &ldquo;A Snapshot into the Limits and Risks of Video Game Machine Translation.&rdquo; <i>Fun for All VII: InternationalConference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 30/01/2025.</p>
+<p>Houlmont, Pierre-Yves and Damien Hansen. &ldquo;A Snapshot into the Limits and Risks of Video Game Machine Translation.&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 30/01/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/296597" target="_blank">Reappropriating Translation Technologies: Leveraging Translator Corpora for Individual and Creative Uses</a>.&rdquo; <i>2022 BAAHE Conference &ndash; Undercurrents: Challenging the Mainstream</i>, Lilith &ndash; CIRTI &ndash; CEREP, Université de Liège, Liège, Belgium, 02/12/2022.</p>
 
