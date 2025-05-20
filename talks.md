@@ -15,9 +15,9 @@
 
 <p>Hansen, Damien. &ldquo;The Ergonomics of Literary Machine Translation: Effects of Technology on Translator Flow.&rdquo; <i>11th EST Congress: The Changing Faces of Translation and Interpreting Studies</i>, CTIS, University of Leeds, Leeds, United Kingdom, 03/07/2025.</p>
 
-<p>Hansen, Damien. &ldquo;The Timely Archiving of Translation Technologies: Transformation, Challenges and Trends.&rdquo; <i>DigiCAM25: Born-Digital Collections, Archives and Memory</i>, SAS, University of London, London, United Kingdom, 02/04/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331962" target="_blank">The Timely Archiving of Translation Technologies: Transformation, Challenges and Trends</a>.&rdquo; <i>DigiCAM25: Born-Digital Collections, Archives and Memory</i>, SAS, University of London, London, United Kingdom, 02/04/2025.</p>
 
-<p>Rivas Ginel, María Isabel, Pierre Voué, Pierre-Yves Houlmont and Damien Hansen. &ldquo;A Game for the Crowds: Neutral Mode on!&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
+<p>Rivas Ginel, María Isabel, Pierre-Yves Houlmont, Damien Hansen and Pierre Voué. &ldquo;A Game for the Crowds: Neutral Mode on!&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
 
 <p>Houlmont, Pierre-Yves and Damien Hansen. &ldquo;A Snapshot into the Limits and Risks of Video Game Machine Translation.&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 30/01/2025.</p>
 
