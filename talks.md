@@ -49,11 +49,11 @@
 
 <h3>Invited Talks</h3>
 
-<p>Hansen, Damien. &ldquo;Creative Texts, Translation Technology and Translator Corpora.&rdquo; <i>SGA Research Seminar</i>, SGA, Lancaster University, Lancaster, United Kingdom, 11/03/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331949" target="_blank">Creative Texts, Translation Technology and Translator Corpora</a>.&rdquo; <i>SGA Research Seminar</i>, SGA, Lancaster University, Lancaster, United Kingdom, 11/03/2025.</p>
 
-<p>Hansen, Damien. &ldquo;Personnalisation des systèmes de traduction automatique par le style individuel des traductaires littéraires&nbsp;: Apports d'une contribution technique puis ergonomique.&rdquo; <i>Nouvelles approches didactiques de la traduction et de l'interprétation</i>, CLESTHIA, Université Sorbonne Nouvelle, Paris, France, 15/02/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331951" target="_blank">Personnalisation des systèmes de traduction automatique par le style individuel des traductaires littéraires&nbsp;: apports d'une contribution technique puis ergonomique</a>.&rdquo; <i>Nouvelles approches didactiques de la traduction et de l'interprétation</i>, CLESTHIA, Université Sorbonne Nouvelle, Paris, France, 15/02/2025.</p>
 
-<p>Hansen, Damien. &ldquo;Détournements technologiques&nbsp;: repenser la traduction littéraire automatique à l’aune de la traductologie cognitive et de la sociologie.&rdquo; <i>Penser les interactions entre humains et machines en traduction</i>, CECILLE, Université de Lille, Lille, France, 24/01/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331952" target="_blank">Détournements technologiques&nbsp;: repenser la traduction littéraire automatique à l'aune de la traductologie cognitive et de la sociologie</a>.&rdquo; <i>Penser les interactions entre humains et machines en traduction</i>, CECILLE, Université de Lille, Lille, France, 24/01/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/322806" target="_blank">Mettre au point un système de TAN&nbsp;: l'influence des corpus sur l'entraînement et les sorties de traduction automatique</a>.&rdquo; <i>Journée mondiale de la traduction 2024&nbsp;: Les enjeux de l'intelligence artificielle</i>, SFT &ndash; EMMA, Université Paul Valéry, Montpellier, France, 28/09/2024.</p>
 
