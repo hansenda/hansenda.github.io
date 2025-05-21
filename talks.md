@@ -17,9 +17,9 @@
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331962" target="_blank">The Timely Archiving of Translation Technologies: Transformation, Challenges and Trends</a>.&rdquo; <i>DigiCAM25: Born-Digital Collections, Archives and Memory</i>, SAS, University of London, London, United Kingdom, 02/04/2025.</p>
 
-<p>Rivas Ginel, María Isabel, Pierre-Yves Houlmont, Damien Hansen and Pierre Voué. &ldquo;A Game for the Crowds: Neutral Mode on!&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
+<p>Rivas Ginel, María Isabel, Pierre-Yves Houlmont, Damien Hansen and Pierre Voué. &ldquo;<a href="https://hdl.handle.net/2268/332001" target="_blank">A Game for the Crowds: Neutral Mode on!</a>&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
 
-<p>Houlmont, Pierre-Yves and Damien Hansen. &ldquo;A Snapshot into the Limits and Risks of Video Game Machine Translation.&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 30/01/2025.</p>
+<p>Houlmont, Pierre-Yves and Damien Hansen. &ldquo;<a href="https://hdl.handle.net/2268/332000" target="_blank">A Snapshot into the Limits and Risks of Video Game Machine Translation</a>.&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 30/01/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/296597" target="_blank">Reappropriating Translation Technologies: Leveraging Translator Corpora for Individual and Creative Uses</a>.&rdquo; <i>2022 BAAHE Conference &ndash; Undercurrents: Challenging the Mainstream</i>, Lilith &ndash; CIRTI &ndash; CEREP, Université de Liège, Liège, Belgium, 02/12/2022.</p>
 
