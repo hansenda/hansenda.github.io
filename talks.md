@@ -13,7 +13,7 @@
 
 <h3>Scientific Events</h3>
 
-<p>Hansen, Damien. &ldquo;The Ergonomics of Literary Machine Translation: Effects of Technology on Translator Flow.&rdquo; <i>11th EST Congress: The Changing Faces of Translation and Interpreting Studies</i>, CTIS, University of Leeds, Leeds, United Kingdom, 03/07/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/333213" target="_blank">The Ergonomics of Literary Machine Translation: Effects of Technology on Translator Flow</a>.&rdquo; <i>11th EST Congress: The Changing Faces of Translation and Interpreting Studies</i>, CTIS, University of Leeds, Leeds, United Kingdom, 03/07/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331962" target="_blank">The Timely Archiving of Translation Technologies: Transformation, Challenges and Trends</a>.&rdquo; <i>DigiCAM25: Born-Digital Collections, Archives and Memory</i>, SAS, University of London, London, United Kingdom, 02/04/2025.</p>
 
