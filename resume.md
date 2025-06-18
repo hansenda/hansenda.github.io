@@ -122,6 +122,7 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 &nbsp;
 
 ### Involvement in Academic Life
+* Faculty representative within the institutional AI network
 * Representative of the scientific personnel at the Faculty Council
 * PhD representative for the ED3bis Doctoral College
 * Training programme for people in exile (Co-FormER)
@@ -130,6 +131,7 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 &nbsp;
 
 ### Involvement in Scientific Life
+* Early-career rep within CLRN
 * Outreach and consultancy
 * Management of social media outlets
 * Management of internal and external webpages
