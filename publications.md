@@ -420,5 +420,35 @@
     }
   }
 </script>
+
+<p>
+  Vanroy, Bram, Marie-Aude Lefer, Lieve Macken, Paola Ruffo, Ana Guerberof Arenas and Damien Hansen. <a href="https://aclanthology.org/volumes/2025.ctt-1/" target="_blank"><i>Proceedings of the Second Workshop on Creative-text Translation and Technology (CTT)</i></a>. EAMT, 2025.<br>
+  <a href="https://aclanthology.org/volumes/2025.ctt-1/" target="_blank"><button class="btn-url">URL</button></a>
+  <a href="https://aclanthology.org/2025.ctt-1.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
+  <button class="btn-bib" onclick="toggleBib13()">BIB</button>
+</p>
+
+<div id="bib13" style="display:none; background-color:#20202B; padding-left: 2em;">
+  <pre>@book{vanroy-etal:2025:ctt,
+    title     = {Proceedings of the Second Workshop on Creative-text Translation and Technology (CTT)},
+    editor    = {Vanroy, Bram and Lefer, Marie-Aude and Macken, Lieve and Ruffo, Paola and Guerberof Arenas, Ana and Hansen, Damien},
+    year      = {2025},
+    publisher = {European Association for Machine Translation},
+    location  = {Geneva, Switzerland},
+    isbn      = {978-2-9701897-6-3},
+    url       = {https://aclanthology.org/volumes/2025.ctt-1}}
+  </pre>
+</div>
+
+<script>
+  function toggleBib13(parameter) {
+    var x = document.getElementById('bib13');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+  }
+</script>
   
 </div>
