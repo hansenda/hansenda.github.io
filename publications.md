@@ -424,8 +424,8 @@
 <p>
   Vanroy, Bram, Marie-Aude Lefer, Lieve Macken, Paola Ruffo, Ana Guerberof Arenas and Damien Hansen. <a href="https://aclanthology.org/volumes/2025.ctt-1/" target="_blank"><i>Proceedings of the Second Workshop on Creative-text Translation and Technology (CTT)</i></a>. EAMT, 2025.<br>
   <a href="https://aclanthology.org/volumes/2025.ctt-1/" target="_blank"><button class="btn-url">URL</button></a>
-  <a href="https://aclanthology.org/2025.ctt-1.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
   <button class="btn-bib" onclick="toggleBib13()">BIB</button>
+  <a href="https://aclanthology.org/2025.ctt-1.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>
 </p>
 
 <div id="bib13" style="display:none; background-color:#20202B; padding-left: 2em;">
