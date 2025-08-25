@@ -49,7 +49,7 @@ Copet, Simon. *Analyse comparative des performances entre la traduction humaine 
 
 ### Supervision of MA Theses
 
-Grégoire, Olivier. *Dans les méandres des mots du Monde des Douze&nsbp;: enjeux, analyse linguistique et évaluation de la traduction automatique à partir d'un corpus du MMORPG* Dofus (2025).
+Grégoire, Olivier. *Dans les méandres des mots du Monde des Douze&nbsp;: enjeux, analyse linguistique et évaluation de la traduction automatique à partir d'un corpus du MMORPG* Dofus (2025).
 
 Minder, Joachim. *Traduction automatique et marqueurs d'oralité&nbsp;: analyse à partir d'un corpus parallèle allemand&ndash;français* (2023). Received an award for best MA thesis in applied research by the Belgian Chamber of Translators and Interpreters.
 
