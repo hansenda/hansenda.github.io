@@ -429,14 +429,15 @@
 </p>
 
 <div id="bib13" style="display:none; background-color:#20202B; padding-left: 2em;">
-  <pre>@book{vanroy-etal:2025:ctt,
+  <pre>@proceedings{vanroy-etal:2025:ctt,
     title     = {Proceedings of the Second Workshop on Creative-text Translation and Technology (CTT)},
     editor    = {Vanroy, Bram and Lefer, Marie-Aude and Macken, Lieve and Ruffo, Paola and Guerberof Arenas, Ana and Hansen, Damien},
     year      = {2025},
     publisher = {European Association for Machine Translation},
     location  = {Geneva, Switzerland},
     isbn      = {978-2-9701897-6-3},
-    url       = {https://aclanthology.org/volumes/2025.ctt-1}}
+    url       = {https://aclanthology.org/volumes/2025.ctt-1},
+    copyright = {CC BY-NC-ND 4.0}}
   </pre>
 </div>
 
