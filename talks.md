@@ -51,7 +51,7 @@
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336661" target="_blank">Atelier de transcréation algorithmique expérimentale</a>.&rdquo; <i>Journée mondiale de la traduction 2025&nbsp;: Traduction et industries de l'avenir</i>, UBE &ndash; SFT, Technopole Hub&Go, Le Creusot, France, 10/10/2025.</p>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336660" target="_blank" style="letter-spacing:-.1px">Automation or collaboration: the two paths of AI and machine translation</a>.&rdquo; <i>2025 International Translation Day</i>, MLCS &ndash; LTAC &ndash; ATIA, University of Alberta, Edmonton, Canada, 29/09/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336660" target="_blank" style="letter-spacing:-.2px">Automation or collaboration: the two paths of AI and machine translation</a>.&rdquo; <i>2025 International Translation Day</i>, MLCS &ndash; LTAC &ndash; ATIA, University of Alberta, Edmonton, Canada, 29/09/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331949" target="_blank">Creative Texts, Translation Technology and Translator Corpora</a>.&rdquo; <i>SGA Research Seminar</i>, SGA, Lancaster University, Lancaster, United Kingdom, 11/03/2025.</p>
 
