@@ -49,9 +49,9 @@
 
 <h3>Invited Talks</h3>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336661" target="_blank">Atelier de transcréation algorithmique expérimentale</a>.&rdquo; <i>Journée mondiale de la traduction 2025&nbsp;: Traduction et industries de l'avenir</i>, SFT &ndash; T2M-TA2M, Technopole Hub&Go, Le Creusot, France, 10/10/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336661" target="_blank">Atelier de transcréation algorithmique expérimentale</a>.&rdquo; <i>Journée mondiale de la traduction 2025&nbsp;: Traduction et industries de l'avenir</i>, UBE &ndash; SFT, Technopole Hub&Go, Le Creusot, France, 10/10/2025.</p>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336660" target="_blank">Automation or collaboration: the two paths of AI and machine translation</a>.&rdquo; <i>2025 International Translation Day</i>, MLCS &ndash; LTAC &ndash; ATIA, University of Alberta, Edmonton, Canada, 29/09/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336660" target="_blank" style="letter-spacing:-.1px">Automation or collaboration: the two paths of AI and machine translation</a>.&rdquo; <i>2025 International Translation Day</i>, MLCS &ndash; LTAC &ndash; ATIA, University of Alberta, Edmonton, Canada, 29/09/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331949" target="_blank">Creative Texts, Translation Technology and Translator Corpora</a>.&rdquo; <i>SGA Research Seminar</i>, SGA, Lancaster University, Lancaster, United Kingdom, 11/03/2025.</p>
 
@@ -83,7 +83,7 @@
 
 <h3>Outreach</h3>
 
-<p>Roundtable: &ldquo;<a href="https://www.sft.fr/fr/agenda/jmt-2025-traduction-et-industries-de-l-avenir-620" target="_blank">De l’avenir des industries de la langue à la langue des industries de l'avenir</a>&rdquo; <i>Journée mondiale de la traduction 2025</i>, 10/10/2025.</p>
+<p>Roundtable: &ldquo;<a href="https://www.sft.fr/fr/agenda/jmt-2025-traduction-et-industries-de-l-avenir-620" target="_blank">De l’avenir des industries de la langue à la langue des industries de l'avenir</a>.&rdquo; <i>Journée mondiale de la traduction 2025</i>, 10/10/2025.</p>
 
 <p>Roundtable: &ldquo;<a href="https://flb.be/journee-de-la-traduction/" target="_blank">Traduire (?) bientôt (?) la littérature avec l'IA&nbsp;?</a>&rdquo; <i>Foire du livre de Bruxelles</i>, 13/03/2025.</p>
 
