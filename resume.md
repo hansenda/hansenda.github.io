@@ -141,6 +141,9 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 
 ### Organizing Committees
 
+<a href="https://www.cirti.uliege.be/plein-champ-2026/" target="_blank">*Traductologie de plein champ&nbsp;: Pour qui traduire&nbsp;? Qui pour traduire&nbsp;?*</a><br>
+CIRTI, ULiège, Liège, Belgium (12&ndash;13/05/2026)
+
 <a href="https://ctt2025.ccl.kuleuven.be/" target="_blank">*Second Workshop on Creative-text Translation and Technology*</a><br>
 FTI, UNIGE, Geneva, Switzerland (24/06/2025)
 
@@ -169,17 +172,8 @@ UMONS &ndash; UCLouvain, UMONS, Mons, Belgium (15&ndash;17/05/2024)
 <a href="https://www.fabula.org/actualites/113588/entre-immersion-interactivite-et-interaction-traduire-le-jeu-video.html" target="_blank">*Entre immersion, interactivité et interaction&nbsp;: traduire le jeu vidéo*</a><br>
 LLL, UO, Orléans, France (13/12/2023)
 
-<a href="https://www.cirti.uliege.be/translation-corpora-2023" target="_blank">*Workshop on Corpora in Translation Education*</a><br>
-CIRTI &ndash; Lilith, ULiège, Liège, Belgium (25/05/2023)
-
-<a href="https://www.cirti.uliege.be/litmt2022" target="_blank">*Literary Machine Translation as a Human-Machine Dialectic*</a><br>
-CIRTI, ULiège, Liège, Belgium (06/10/2022)
-
 <a href="https://tradital.ltc.ulb.be/navigation/colloque" target="_blank">*Enseigner la traduction et l'interprétation à l'heure neuronale*</a><br>
 TRADITAL, ULB, Brussels, Belgium (29&ndash;30/09/2022)
-
-<a href="https://replaying.jp/keynote-and-schedule" target="_blank">*Replaying Japan 2020*</a><br>
-Liège Game Lab, ULiège, Liège, Belgium (10&ndash;13/08/2020)
 
 &nbsp;
 
@@ -190,6 +184,8 @@ Liège Game Lab, ULiège, Liège, Belgium (10&ndash;13/08/2020)
 *Palimpsestes*, no.&nbsp;38: <a href="https://journals.openedition.org/palimpsestes/8675" target="_blank">Traduction littéraire et intelligence artificielle&nbsp;: théorie, pratique, création</a> (2024)
 
 *Tradumàtica*, no.&nbsp;21: <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank">Computer-Aided Literary Translation</a> (2023)
+
+*Digital Translation*&hellip;
 
 &nbsp;
 
