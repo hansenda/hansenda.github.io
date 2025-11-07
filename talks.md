@@ -13,11 +13,13 @@
 
 <h3>Scientific Events</h3>
 
+<div class="talkbox">
+
 <p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/333213" target="_blank">The Ergonomics of Literary Machine Translation: Effects of Technology on Translator Flow</a>.&rdquo; <i>11th EST Congress: The Changing Faces of Translation and Interpreting Studies</i>, CTIS, University of Leeds, Leeds, United Kingdom, 03/07/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331962" target="_blank">The Timely Archiving of Translation Technologies: Transformation, Challenges and Trends</a>.&rdquo; <i>DigiCAM25: Born-Digital Collections, Archives and Memory</i>, SAS, University of London, London, United Kingdom, 02/04/2025.</p>
 
-<p>Rivas Ginel, María Isabel, Pierre-Yves Houlmont, Damien Hansen and Pierre Voué. &ldquo;<a href="https://hdl.handle.net/2268/332001" target="_blank">A Game for the Crowds: Neutral Mode on!</a>&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
+<p style="letter-spacing:.3px">Rivas Ginel, María Isabel, Pierre-Yves Houlmont, Damien Hansen and Pierre Voué. &ldquo;<a href="https://hdl.handle.net/2268/332001" target="_blank">A Game for the Crowds: Neutral Mode on!</a>&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 31/01/2025.</p>
 
 <p>Houlmont, Pierre-Yves and Damien Hansen. &ldquo;<a href="https://hdl.handle.net/2268/332000" target="_blank">A Snapshot into the Limits and Risks of Video Game Machine Translation</a>.&rdquo; <i>Fun for All VII: International Conference on Video Game Translation and Accessibility</i>, TransMedia Catalonia, Universitat Autònoma de Barcelona, Barcelona, Spain, 30/01/2025.</p>
 
@@ -43,15 +45,17 @@
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242409" target="_blank">Morphologie du jeu vidéo&nbsp;: le ludème envisagé comme unité minimale fonctionnelle du jeu</a>.&rdquo; <i>Les langages du jeu vidéo&nbsp;: codes, discours et images en jeu</i>, UNIL GameLab, Université de Lausanne, Lausanne, Switzerland, 24/10/2019.</p>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242406" target="_blank">La traduction littéraire assistée par ordinateur&nbsp;: de l'unité de traduction à l'unité de style</a>.&rdquo; <i>Des unités de traduction à l'unité de la traduction</i>, Paris-VII &ndash; ULB &ndash; UniGE, Université libre de Bruxelles, Brussels, Belgium, 21/10/2017.</p>
+<p class="last">Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242406" target="_blank">La traduction littéraire assistée par ordinateur&nbsp;: de l'unité de traduction à l'unité de style</a>.&rdquo; <i>Des unités de traduction à l'unité de la traduction</i>, Paris-VII &ndash; ULB &ndash; UniGE, Université libre de Bruxelles, Brussels, Belgium, 21/10/2017.</p>
 
-<br>
+</div><br><br>
 
 <h3>Invited Talks</h3>
 
+<div class="talkbox">
+
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336661" target="_blank">Atelier de transcréation algorithmique expérimentale</a>.&rdquo; <i>Journée mondiale de la traduction 2025&nbsp;: Traduction et industries de l'avenir</i>, UBE &ndash; SFT, Technopole Hub&Go, Le Creusot, France, 10/10/2025.</p>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336660" target="_blank" style="letter-spacing:-.2px">Automation or collaboration: the two paths of AI and machine translation</a>.&rdquo; <i>2025 International Translation Day</i>, MLCS &ndash; LTAC &ndash; ATIA, University of Alberta, Edmonton, Canada, 29/09/2025.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/336660" target="_blank">Automation or collaboration: the two paths of AI and machine translation</a>.&rdquo; <i>2025 International Translation Day</i>, MLCS &ndash; LTAC &ndash; ATIA, University of Alberta, Edmonton, Canada, 29/09/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331949" target="_blank">Creative Texts, Translation Technology and Translator Corpora</a>.&rdquo; <i>SGA Research Seminar</i>, SGA, Lancaster University, Lancaster, United Kingdom, 11/03/2025.</p>
 
@@ -75,23 +79,25 @@
 
 <p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/303541" target="_blank">Systèmes de TA personnalisés pour les traducteurs et traductrices littéraires&nbsp;: un changement de paradigme pour la traduction automatique&nbsp;?</a>&rdquo; <i>L'éthique, c'est pas automatique&nbsp;!</i>, MultiTraiNMT, Université Grenoble Alpes, Grenoble, France, 28/06/2022.</p>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242410" target="_blank">The challenges and relevance of computer-assisted literary translation</a>.&rdquo; <i>The Many Faces of Translation: From Video Games to the Vatican</i>, Directorate-General for Translation, European Parliament, Luxembourg, Luxembourg, 19/11/2019.</p>
+<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242410" target="_blank" style="letter-spacing:-.3px">The challenges and relevance of computer-assisted literary translation</a>.&rdquo; <i>The Many Faces of Translation: From Video Games to the Vatican</i>, Directorate-General for Translation, European Parliament, Luxembourg, Luxembourg, 19/11/2019.</p>
 
-<p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242408" target="_blank">TLA et TLAO&nbsp;: enjeux et perspectives d'avenir</a>.&rdquo; <i>Le traducteur à l'ère des nouvelles technologies</i>, CIRTI, Université de Liège, Liège, Belgium, 06/05/2019.</p>
+<p class="last">Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/242408" target="_blank">TLA et TLAO&nbsp;: enjeux et perspectives d'avenir</a>.&rdquo; <i>Le traducteur à l'ère des nouvelles technologies</i>, CIRTI, Université de Liège, Liège, Belgium, 06/05/2019.</p>
 
-<br>
+</div><br><br>
 
 <h3>Outreach</h3>
 
-<p>Roundtable: &ldquo;<a href="https://www.sft.fr/fr/agenda/jmt-2025-traduction-et-industries-de-l-avenir-620" target="_blank">De l’avenir des industries de la langue à la langue des industries de l'avenir</a>.&rdquo; <i>Journée mondiale de la traduction 2025</i>, 10/10/2025.</p>
+<div class="talkbox">
+
+<p>Roundtable: &ldquo;<a href="https://www.sft.fr/fr/agenda/jmt-2025-traduction-et-industries-de-l-avenir-620" target="_blank" style="letter-spacing:-.3px">De l’avenir des industries de la langue à la langue des industries de l'avenir</a>.&rdquo; <i>Journée mondiale de la traduction 2025</i>, 10/10/2025.</p>
 
 <p>Roundtable: &ldquo;<a href="https://flb.be/journee-de-la-traduction/" target="_blank">Traduire (?) bientôt (?) la littérature avec l'IA&nbsp;?</a>&rdquo; <i>Foire du livre de Bruxelles</i>, 13/03/2025.</p>
 
 <p>Podcast: &ldquo;<a href="https://bx1.be/radio-emission/prompt-google-traduction-deepl-lia-en-traduction-automatique-21-09-2024/" target="_blank">L'IA en traduction automatique</a>.&rdquo; <i>Prompt</i> by BX1, 21/09/2024.</p>
 
-<p>Interview: &ldquo;<a href="https://kollektive-intelligenz.de/originals/customized-mt-engines-for-literary-translators-a-case-study/" target="_blank">Customized MT engines for literary translators – A case study</a> / <a href="https://kollektive-intelligenz.de/originals/personalisierte-ki-fuers-literaturuebersetzen-eine-fallstudie/" target="_blank">Personalisierte KI fürs Literaturübersetzen – eine Fallstudie</a>.&rdquo; <i>Kollektive Intelligenz</i>, 07/06/2024.</p>
+<p>Interview: &ldquo;<a href="https://kollektive-intelligenz.de/originals/customized-mt-engines-for-literary-translators-a-case-study/" target="_blank" style="letter-spacing:-.2px">Customized MT engines for literary translators – A case study</a> / <a href="https://kollektive-intelligenz.de/originals/personalisierte-ki-fuers-literaturuebersetzen-eine-fallstudie/" target="_blank" style="letter-spacing:-.2px">Personalisierte KI fürs Literaturübersetzen – eine Fallstudie</a>.&rdquo; <i>Kollektive Intelligenz</i>, 07/06/2024.</p>
 
-<p>Contribution: &ldquo;<a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Counterpoint_2023_10.pdf#Counterpoint_Eng_10.indd%3A.44866%3A475" target="_blank">The ambivalence of machine translation and AI: Resource or replacement?</a> / <a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Contrepoint_2023_10.pdf#Counterpoint_Fre_10.indd%3A.49756%3A533" target="_blank">Ressource ou substitut&nbsp;? L'ambivalence de la traduction automatique et de l'IA</a>.&rdquo; <i>Counterpoint</i>, no.&nbsp;10, special issue on AI and literary translation, CEATL, 19/12/2023.</p>
+<p>Contribution: &ldquo;<a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Counterpoint_2023_10.pdf#Counterpoint_Eng_10.indd%3A.44866%3A475" target="_blank" style="letter-spacing:-.2px">The ambivalence of machine translation and AI: Resource or replacement?</a> / <a href="https://www.ceatl.eu/wp-content/uploads/2023/12/Contrepoint_2023_10.pdf#Counterpoint_Fre_10.indd%3A.49756%3A533" target="_blank" style="letter-spacing:-.2px">Ressource ou substitut&nbsp;? L'ambivalence de la traduction automatique et de l'IA</a>.&rdquo; <i>Counterpoint</i>, no.&nbsp;10, special issue on AI and literary translation, CEATL, 19/12/2023.</p>
 
 <p>Interview: &ldquo;<a href="https://www.machinetranslation.com/blog/machine-translation-for-literary-texts" target="_blank">Machine translation for literary texts?</a>&rdquo; <i>MachineTranslation.com</i>, 21/12/2022.</p>
 
@@ -99,7 +105,7 @@
   
 <p>Vocational training: &ldquo;<a href="https://artsetpublics.be/programmes/numbers/" target="_blank">Le ludème comme base d'un langage du jeu vidéo&nbsp;?</a>&rdquo; <i>NUMBERS</i> initiative by Arts&amp;Publics, 10/10/2020.</p>
 
-<p>Interview: &ldquo;<a href="https://www.lemonde.fr/pixels/article/2019/11/01/spatiale-textuelle-oulipesque-l-etonnante-grammaire-du-jeu-video_6017674_4408996.html
-" target="_blank">Spatiale, textuelle, oulipesque&hellip; L'étonnante grammaire du jeu vidéo</a>.&rdquo; <i>Le Monde</i>, 01/11/2019.</p>
+<p class="last">Interview: &ldquo;<a href="https://www.lemonde.fr/pixels/article/2019/11/01/spatiale-textuelle-oulipesque-l-etonnante-grammaire-du-jeu-video_6017674_4408996.html
+" target="_blank" style="letter-spacing:.1px">Spatiale, textuelle, oulipesque&hellip; L'étonnante grammaire du jeu vidéo</a>.&rdquo; <i>Le Monde</i>, 01/11/2019.</p>
 
-</div>
+</div></div>
