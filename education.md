@@ -37,11 +37,13 @@ History and analysis of the use of video games (ULiège, 2020 &amp; 2021)
 
 ### Projects
 
+Student, doctoral and professional workshops on translation technology, creative translation and scientific mediation through games
+
 Organization of a faculty seminar on AI and sustainability
 
-Publication of a biannual faculty journal of translated news articles involving a dedicated teaching team, BA and MA students.
+Publication of a biannual faculty journal of translated news articles involving a dedicated teaching team, BA and MA students
 
-Supervision of seminars for students writing their MA thesis.
+Supervision of seminars for students writing their MA thesis
 
 ### Supervision of PhD Theses
 
@@ -55,8 +57,10 @@ Minder, Joachim. *Traduction automatique et marqueurs d'oralité&nbsp;: analyse 
 
 D'Amario, Luca. *Traduction commentée d'extraits de* The Deep Learning Revolution, *de Terrence J. Sejnowski* (2021).
 
-### Committees
+### Additional Committees
+
+PhD defenses: 1
 
 PhD committees: 2
 
-MA defenses: 5
+MA defenses: 2
