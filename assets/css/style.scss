@@ -52,8 +52,20 @@ button {
   background-color: #BDF995;
   transition: 0.15s ease-in-out;}
 
-.reference > p {
+.reference > p, .talkbox > p {
   padding-left: 2rem;
   text-indent: -2rem;
   font-size: smaller;
   text-align: justify;}
+
+.talkbox {
+  padding: .5rem;
+  padding-right: .5rem;
+  border: 2px solid #BDF995;
+  border-radius: 2%;
+  overflow-y: overlay;
+  scrollbar-color: #BDF995 transparent;
+  height: 400px;}
+
+p.last {
+  margin-bottom: 0;}
