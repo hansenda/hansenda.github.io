@@ -185,16 +185,18 @@ TRADITAL, ULB, Brussels, Belgium (29&ndash;30/09/2022)
 
 *Tradumàtica*, no.&nbsp;21: <a href="https://revistes.uab.cat/tradumatica/issue/view/n21" target="_blank">Computer-Aided Literary Translation</a> (2023)
 
-*Digital Translation*&hellip;
+*Digital Translation*, *Language Resources and Evaluation*&hellip;
 
 &nbsp;
 
 ### Awards and Scholarships
 
+WelCHANGE Research Programme &ndash; F.R.S.-FNRS (2026&ndash;2029)
+
 CIVIS strategic partnership &ndash; UNIL-ULB (2025)
 
-Bourse de la Fondation Duesberg-Baily Thil Lorrain &ndash; ULiège Heritage (2020)
+Bourse de doctorat en Sciences humaines &ndash; University of Liège (2020&ndash;2024)
 
-Bourse de doctorat en Sciences humaines &ndash; University of Liège (2020)
+Bourse de la Fondation Duesberg-Baily Thil Lorrain &ndash; ULiège Heritage (2020)
 
 President's Award &ndash; Eastern Kentucky University (2014)
