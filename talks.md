@@ -15,6 +15,8 @@
 
 <div class="talkbox">
 
+<p>Dupont, Bruno, Damien Hansen, Pierre-Yves Houlmont and María Isabel Rivas Ginel. &ldquo;<a href="https://orbi.uliege.be/handle/2268/340702" target="_blank">La part des imaginaires de l'IA dans les textes programmatiques des institutions ​ d'enseignement</a>.&rdquo; <i>Pré-SETT 2026&nbsp;: Questionner la transformation par l'intelligence artificielle des cadres de l'enseignement</i>, Educ0Num, Université de Namur, Namur, Belgium, 28/01/2026.</p>
+
 <p>Hansen, Damien. &ldquo;<a href="https://orbi.uliege.be/handle/2268/333213" target="_blank">The Ergonomics of Literary Machine Translation: Effects of Technology on Translator Flow</a>.&rdquo; <i>11th EST Congress: The Changing Faces of Translation and Interpreting Studies</i>, CTIS, University of Leeds, Leeds, United Kingdom, 03/07/2025.</p>
 
 <p>Hansen, Damien. &ldquo;<a href="https://hdl.handle.net/2268/331962" target="_blank">The Timely Archiving of Translation Technologies: Transformation, Challenges and Trends</a>.&rdquo; <i>DigiCAM25: Born-Digital Collections, Archives and Memory</i>, SAS, University of London, London, United Kingdom, 02/04/2025.</p>
