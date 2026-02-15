@@ -91,7 +91,7 @@
 
 <div class="talkbox">
 
-<p>Roundtable: &ldquo;<a href="https://multilingualism.brussels/fr/" target="_blank" style="letter-spacing:-.4px">L'intelligence artificielle constitue-t-elle une menace pour le multilinguisme&nbsp;?</a>&rdquo; <i>Semaine bruxelloise du multilinguisme</i>, 14/02/2026.</p>
+<p>Roundtable: &ldquo;<a href="https://multilingualism.brussels/fr/" target="_blank" style="letter-spacing:-.3px">L'intelligence artificielle constitue-t-elle une menace pour le multilinguisme&nbsp;?</a>&rdquo; <i>Semaine bruxelloise du multilinguisme</i>, 14/02/2026.</p>
 
 <p>Roundtable: &ldquo;<a href="https://civis.eu/en/learn/civis-courses/ai-for-university-communicators" target="_blank">AI-powered multilingualism: friend or foe for European Universities</a>.&rdquo; <i>CIVIS Staff Week: AI for University Communicators</i>, 25/11/2025.</p>
 
