@@ -91,6 +91,8 @@
 
 <div class="talkbox">
 
+<p>Roundtable: &ldquo;<a href="https://multilingualism.brussels/fr/" target="_blank">L'intelligence artificielle constitue-t-elle une menace pour le multilinguisme&nbsp;?</a>.&rdquo; <i>Semaine bruxelloise du multilinguisme</i>, 14/02/2026.</p>
+
 <p>Roundtable: &ldquo;<a href="https://civis.eu/en/learn/civis-courses/ai-for-university-communicators" target="_blank">AI-powered multilingualism: friend or foe for European Universities</a>.&rdquo; <i>CIVIS Staff Week: AI for University Communicators</i>, 25/11/2025.</p>
 
 <p>Roundtable: &ldquo;<a href="https://www.sft.fr/fr/agenda/jmt-2025-traduction-et-industries-de-l-avenir-620" target="_blank" style="letter-spacing:-.3px">De l'avenir des industries de la langue à la langue des industries de l'avenir</a>.&rdquo; <i>Journée mondiale de la traduction 2025</i>, 10/10/2025.</p>
