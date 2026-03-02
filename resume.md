@@ -141,6 +141,9 @@ University of Liège &ndash; Liège, Belgium (2012 &ndash; 2015)<br>
 
 ### Organizing Committees
 
+<a href="https://nitsnetwork.github.io/nits2026/" target="_blank">*NITS 2026*</a><br>
+TRADITAL, ULB, Brussels, Belgium (22/05/2026)
+
 <a href="https://www.cirti.uliege.be/plein-champ-2026/" target="_blank">*Traductologie de plein champ&nbsp;: Pour qui traduire&nbsp;? Qui pour traduire&nbsp;?*</a><br>
 CIRTI, ULiège, Liège, Belgium (12&ndash;13/05/2026)
 
