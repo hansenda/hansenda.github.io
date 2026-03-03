@@ -166,6 +166,9 @@ CIRTI, ULiège, Liège, Belgium (06/05/2019)
 
 ### Scientific Committees
 
+<a href="https://cifel.sciencesconf.org/" target="_blank">*CIFEL 2026&nbsp;: contours et marginalités (vidéo)ludiques*</a><br>
+CIFEL, UNamur, Namur, Belgium (29/06&ndash;01/07/2026)
+
 <a href="https://ctt2024.ccl.kuleuven.be/home" target="_blank">*First Workshop on Creative-text Translation and Technology*</a><br>
 EAMT, TUOS, Sheffield, United Kingdom (27/06/2024)
 
