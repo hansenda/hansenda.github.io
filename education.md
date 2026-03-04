@@ -11,11 +11,13 @@
 
 ### Courses
 
-Ethical and societal implications of artificial intelligence (ULB, 2024 &ndash; 2026)
+Video Game Culture (ULB, 2026 &ndash; 2027)
 
-Training and evaluation of machine translation systems (ULB, 2024 &ndash; 2026)
+Ethical and societal implications of artificial intelligence (ULB, 2024 &ndash; 2027)
 
-Multilingual corpus processing (ULB, 2024 &ndash; 2026)
+Training and evaluation of machine translation systems (ULB, 2024 &ndash; 2027)
+
+Multilingual corpus processing (ULB, 2024 &ndash; 2027)
 
 General translation into French, introduction to post-editing and sight translation (ULiège, 2021 &ndash; 2022)
 
@@ -33,7 +35,7 @@ Theory and practice of translation from English into French I (ULiège, 2022)
 
 Theory and practice of translation from English into French II (ULiège, 2021)
 
-History and analysis of the use of video games (ULiège, 2020 &amp; 2021)
+History and analysis of the use of video games (ULiège, 2020, 2021, 2026)
 
 ### Projects
 
