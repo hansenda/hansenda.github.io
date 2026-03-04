@@ -11,7 +11,7 @@
 
 ### Courses
 
-Video Game Culture (ULB, 2026 &ndash; 2027)
+Video game culture (ULB, 2026 &ndash; 2027)
 
 Ethical and societal implications of artificial intelligence (ULB, 2024 &ndash; 2027)
 
