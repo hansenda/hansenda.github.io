@@ -25,6 +25,8 @@ Translating the arts (ULiège, 2020 &ndash; 2021)
 
 ### Lectures
 
+Human sciences and the web (ULiège, 2026)
+
 Introduction to translation studies (ULiège, 2024 &amp; 2025)
 
 Theory and practice of translation from Dutch into French I (ULiège, 2023)
