@@ -166,6 +166,9 @@ CIRTI, ULiège, Liège, Belgium (06/05/2019)
 
 ### Scientific Committees
 
+<a href="https://wp.unil.ch/llist/en/event/workshop-on-computational-methods-in-the-humanities-2026-comhum-2026/" target="_blank">*COMHUM 2026&nbsp;: Workshop on Computational Methods in the Humanities*</a><br>
+LLIST, UNIL, Lausanne, Switzerland (09&ndash;10/09/2026)
+
 <a href="https://cifel.sciencesconf.org/" target="_blank">*CIFEL 2026&nbsp;: contours et marginalités (vidéo)ludiques*</a><br>
 CIFEL, UNamur, Namur, Belgium (29/06&ndash;01/07/2026)
 
