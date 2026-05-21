@@ -200,6 +200,8 @@ TRADITAL, ULB, Brussels, Belgium (29&ndash;30/09/2022)
 
 ### Awards and Scholarships
 
+Innovative teaching award &ndash; ULB (2026)
+
 WelCHANGE Research Programme &ndash; F.R.S.-FNRS (2026&ndash;2029)
 
 CIVIS strategic partnership &ndash; UNIL-ULB (2025)
