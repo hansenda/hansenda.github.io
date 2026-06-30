@@ -15,7 +15,7 @@
 
 <div class="talkbox">
 
-<p>Copet, Simon, Alice Ray and Damien Hansen. &ldquo;<a href="https://orbi.uliege.be/handle/2268/346611" target="_blank">Quand les localisateurs rivalisent avec les moddeurs&nbsp;: Une analyse traductologique de la (re)traduction de The Elder Scrolls IV: Oblivion</a>.&rdquo; <i>CIFÉL 2026&nbsp; Contours et marginalités (vidéo)ludiques</i>, CRIDS, Université de Namur, Namur, Belgium, 30/06/2026.</p>
+<p>Copet, Simon, Alice Ray and Damien Hansen. &ldquo;<a href="https://orbi.uliege.be/handle/2268/346611" target="_blank">Quand les localisateurs rivalisent avec les moddeurs&nbsp;: Une analyse traductologique de la (re)traduction de The Elder Scrolls IV: Oblivion</a>.&rdquo; <i>CIFÉL 2026&nbsp;: Contours et marginalités (vidéo)ludiques</i>, CRIDS, Université de Namur, Namur, Belgium, 30/06/2026.</p>
 
 <p>Copet, Simon, Damien Hansen and Alice Ray. &ldquo;<a href="https://orbi.uliege.be/handle/2268/345509" target="_blank">'Wait a minute, let me do that one again'&nbsp;: négocier la nostalgie et l'originalité dans la retraduction du jeu vidéo The Elder Scrolls IV: Oblivion</a>.&rdquo; <i>REPOP &ndash; La retraduction en régime populaire&nbsp;: contraintes et pratiques</i>, CRPM, Université Paris-Nanterre, Nanterre, France, 29/05/2026.</p>
 
